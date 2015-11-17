@@ -1,13 +1,11 @@
-
-
-=============================================================================================
+#khilafah_infos.=============================================================================================
 =========================================== #OpParis.FR=======================================
 ================================================== ===========================================
 OpParis Video : https://www.youtube.com/watch?v=jF_WXlzPKAU by TheOnlyAnonymous
 NO DDOS / NO DUMP / NO HACK for the moment
 
 =============================================================================================
-=================================INFORMATION AND NOTES======================================
+==================================INFORMATION AND NOTES======================================
 =============================================================================================
 
 ==========================================
@@ -39,23 +37,23 @@ MERCI DE BIEN RESECTER LES DIFFERENTES SECTIONS ET DE NE PAS FOUTRE LE BORDEL !!
 
 AVANT DE COPIER COLLER UN LIEN VERIFIEZ QU IL N Y EST PAS DEJA (Ctrl + F)
 
-Process
-Tools
-Known Hashtags
-BOTS
-Onion site
-Twitter accounts supporting  ISIS
-Twitter Accounts suspended
-Twitter Accounts Deleted
-Facebook account Supporting ISIS
-Tumblr account Supporting ISIS
-Telegram Channels Suporting ISIS
-ISIS supporting website
-Diverse ISIS related Medias
-Syrian Isp's
-Clues
-Dumped Mail ISIS Related
-Web Server ISIS Related
+        1. Process
+        1. Tools
+        1. Known Hashtags
+        1. BOTS
+        1. Onion site
+        1. Twitter accounts supporting  ISIS
+        1. Twitter Accounts suspended
+        1. Twitter Accounts Deleted
+        1. Facebook account Supporting ISIS
+        1. Tumblr account Supporting ISIS
+        1. Telegram Channels Suporting ISIS
+        1. ISIS supporting website
+        1. Diverse ISIS related Medias
+        1. Syrian Isp's
+        1. Clues
+        1. Dumped Mail ISIS Related
+        1. Web Server ISIS Related
 
 ========================================
 ======END OF SOMMAIRE==================
@@ -88,7 +86,7 @@ FRENCH:
 
 =====================================
 ================TOOLS================
-=====================================
+ =============================
 
 Duped twitter account verification / Doublon de compte twitter http://51.254.139.11/duplicate.php
 Suspended twitter account verification / Suspension de compte twitter: http://51.254.139.11/index.php
@@ -153,9 +151,9 @@ Using these bots, a VPN is recommended. Please consider leaving the program runn
 Préalable :
     - Télécharger Python 2.7 : https://www.python.org/downloads/
     - Install Splinter
-    -On UNIX, follow instructions : http://splinter.readthedocs.org/en/latest/install.html.
-    -On Windows : get the zip : https://github.com/cobrateam/splinter/archive/master.zip
-      unzip on your disk, open a terminal (start menu -> type cmd -> launch cmd.exe)
+            -On UNIX, follow instructions : http://splinter.readthedocs.org/en/latest/install.html.
+            -On Windows : get the zip : https://github.com/cobrateam/splinter/archive/master.zip
+                                              unzip on your disk, open a terminal (start menu -> type cmd -> launch cmd.exe)
                                     go in the folder you unzip splinter (cd XXXX)
                                     launch 'python setup.py install'
                                     
@@ -971,417 +969,417 @@ https://twitter.com/xxmm4455777
 ================================Twitter account suspended==========================================
 ===============================================================================================
 
-https://twitter.com/hoec15 - Suspended
-https://twitter.com/TurMedia316 - Suspended
-https://twitter.com/azve76 - Suspended
-https://twitter.com/samha1o - Suspended
-https://twitter.com/f75da586675f456 - Suspended
-https://twitter.com/Muj_93_Hed - Suspended
-https://twitter.com/abohashmily - Suspended
-https://twitter.com/Ali_G303L - Suspended
-https://twitter.com/JUI_LJ - Suspended
-https://twitter.com/Misk_2_a - Suspended
-https://twitter.com/rkrk4m25 - Suspended
-https://twitter.com/jxcjcj1 - Suspended
-https://twitter.com/zeses2 - Suspended
-https://twitter.com/sdg42303540 - Suspended
-https://twitter.com/abufalahalhind4 - Suspended
-https://twitter.com/baqiya79R - Suspended
-https://twitter.com/Bghd100 - Suspended
-https://twitter.com/Ali_G303L - Suspended
-https://twitter.com/isis_1188 - Suspended
-https://twitter.com/khilafatekrit - Suspended
-https://twitter.com/gffggll1 - Suspended
-https://twitter.com/Shdd36 - Suspended
-https://twitter.com/TurMedia318 - Suspended
-https://twitter.com/TagBq08yYyk - Suspended
-https://twitter.com/Katusha__28 - Suspended
-https://twitter.com/killercat600 - Suspended
-https://twitter.com/vrjevve1 - Suspended
-https://twitter.com/41invasion - Suspended
-https://twitter.com/TurMedia318 - Suspended
-https://twitter.com/TurMedia318 - Suspended
-https://twitter.com/JUI_LJ - Suspended
-https://twitter.com/wilayat_cairo56 - Suspended
-https://twitter.com/gjdfoi221qw - Suspended
-https://twitter.com/SyariahISlight8 - Suspended
-https://twitter.com/hde054 - Suspended
-https://twitter.com/wazira_104 - Suspended
-https://twitter.com/e45isisa - Suspended
-https://twitter.com/Bghd100 - Suspended
-https://twitter.com/AlJab - Suspended
-https://twitter.com/meersbo2 - Suspended
-https://twitter.com/meersbo2 - Suspended
-https://twitter.com/TurMedia316 - Suspended
-https://twitter.com/TurMedia317 - Suspended
-https://twitter.com/hoec15 - Suspended
-https://twitter.com/hoec15 - Suspended
-https://twitter.com/ll41lll - Suspended
-https://twitter.com/AlJabarti45 - Suspended
-https://twitter.com/abo_roqaia82 - Suspended
-https://twitter.com/gurababiz1551 - Suspended
-https://twitter.com/jhkghjy - Suspended
-https://twitter.com/Hero_isis_711 - Suspended
-https://twitter.com/TurMedia316 - Suspended
-https://twitter.com/JUI_LJ - Suspended
-https://twitter.com/Muj_93_Hed - Suspended
-https://twitter.com/dieebkhel - Suspended
-https://twitter.com/Xkb038 - Suspended
-https://twitter.com/abutalut8 - Suspended
-https://twitter.com/Gqeflfwlemqpdmf - Suspended
-https://twitter.com/alhlby027 - Suspended
-https://twitter.com/SuehwShehe - Suspended
-https://twitter.com/sdsdsd325245 - Suspended
-https://twitter.com/gffggll1 - Suspended
-https://twitter.com/ISIS_1979GMC - Suspended
-https://twitter.com/f75da586675f456 - Suspended
-https://twitter.com/azve76 - Suspended
-https://twitter.com/aqill41 - Suspended
-https://twitter.com/azve76 - Suspended
-https://twitter.com/PicotNo - Suspended
-https://twitter.com/h_a_e_23 - Suspended
-https://twitter.com/_irl_toby6 - Suspended
-https://twitter.com/samha1o - Suspended
-https://twitter.com/f75da586675f456 - Suspended
-https://twitter.com/Muj_93_Hed - Suspended
-https://twitter.com/abohashmily - Suspended
-https://twitter.com/abohashmily - Suspended
-https://twitter.com/wfsfsd - Suspended
-https://twitter.com/azve77 - Suspended
-https://twitter.com/abdalrhan100 - Suspended
-https://twitter.com/Ali_G303L - Suspended
-https://twitter.com/georgebinto1 - Suspended
-https://twitter.com/ahmadvasvv565 - Suspended
-https://twitter.com/Alsloli_dog - Suspended
-https://twitter.com/Misk_2_a - Suspended
-https://twitter.com/Ali_G303L - Suspended
-https://twitter.com/fgh959 - Suspended
-https://twitter.com/sdg42303540 - Suspended
-https://twitter.com/alptter_ - Suspended
-https://twitter.com/umaisha55 - Suspended
-https://twitter.com/leembfs2017 - Suspended
-https://twitter.com/wearekillkofar - Suspended
-https://twitter.com/Om_islam47 - Suspended
-https://twitter.com/_a_a_20 - Suspended
-https://twitter.com/lmj_hallo - Suspended
-https://twitter.com/abu_a_88 - Suspended
-https://twitter.com/JUI_LJ - Suspended
-https://twitter.com/abo_al_zubair - Suspended
-https://twitter.com/Othman14_C4 - Suspended
-https://twitter.com/SamaIQ__90 - Suspended
-https://twitter.com/phupeuea - Suspended
-https://twitter.com/raisiiiiii - Suspended
-https://twitter.com/Misk_2_a - Suspended
-https://twitter.com/SinaiTor - Suspended
-https://twitter.com/xonraqqa - Suspended
-https://twitter.com/aodaaoda4 - Suspended
-https://twitter.com/Rhbdbd1 - Suspended
-https://twitter.com/AAdhim10 - Suspended
-https://twitter.com/abo_67_omar - Suspended
-https://twitter.com/VbnIsrt - Suspended
-https://twitter.com/baqiya79R - Suspended
-https://twitter.com/killercat600 - Suspended
-https://twitter.com/mnhtye - Suspended
-https://twitter.com/Hijazi_9111 - Suspended
-https://twitter.com/jxcjcj1 - Suspended
-https://twitter.com/azdyisis55 - Suspended
-https://twitter.com/nnbb77881 - Suspended
-https://twitter.com/a_t__29__7a - Suspended
-https://twitter.com/Kh_nsa143 - Suspended
-https://twitter.com/210Birdy - Suspended
-https://twitter.com/daish90 - Suspended
-https://twitter.com/fojraqqa - Suspended
-https://twitter.com/saegr2 - Suspended
-https://twitter.com/Ansar5433 - Suspended
-https://twitter.com/Islamic_3344 - Suspended
-https://twitter.com/zeses2 - Suspended
-https://twitter.com/abu_a_89 - Suspended
-https://twitter.com/Rouba56 - Suspended
-https://twitter.com/parisINHELL - Suspended
-https://twitter.com/malekaty891 - Suspended
-https://twitter.com/mouwa7ed_03 - Suspended
-https://twitter.com/R_nxxt_1 - Suspended
-https://twitter.com/rkrk4m25 - Suspended
-https://twitter.com/Hhgff26176827 - Suspended
-https://twitter.com/rkrk4m25 - Suspended
-https://twitter.com/ww_cvf - Suspended
-https://twitter.com/isis_2277 - Suspended
-https://twitter.com/jxcjcj1 - Suspended
-https://twitter.com/gjdfoi221qw - Suspended
-https://twitter.com/smjh2154 - Suspended
-https://twitter.com/Aymanjrjr2 - Suspended
-https://twitter.com/khatabb66 - Suspended
-https://twitter.com/isis_1188 - Suspended
-https://twitter.com/allmah89 - Suspended
-https://twitter.com/mfaw18 - Suspended
-https://twitter.com/Abovaseer34 - Suspended
-https://twitter.com/Cano65525269 - Suspended
-https://twitter.com/AL_adnani_69 - Suspended
-https://twitter.com/zeses2 - Suspended
-https://twitter.com/asloly_____Ws5 - Suspended
-https://twitter.com/zzzassertty233 - Suspended
-https://twitter.com/isis_7744 - Suspended
-https://twitter.com/jahezona13 - Suspended
-https://twitter.com/Katusha__28 - Suspended
-https://twitter.com/abo33dojana1992 - Suspended
-https://twitter.com/sdg42303540 - Suspended
-https://twitter.com/Amatullah_222 - Suspended
-https://twitter.com/aslan555111 - Suspended
-https://twitter.com/Saifaljzrawi - Suspended
-https://twitter.com/abo_ali442 - Suspended
-https://twitter.com/114Muawiya - Suspended
-https://twitter.com/JonnyDavid2 - Suspended
-https://twitter.com/khilafatekrit - Suspended
-https://twitter.com/seto_maiko - Suspended
-https://twitter.com/bent_A1 - Suspended
-https://twitter.com/abufalahalhind4 - Suspended
-https://twitter.com/mustafaklsh12 - Suspended
-https://twitter.com/abuhurairah103 - Suspended
-https://twitter.com/zd__bu - Suspended
-https://twitter.com/baqiya79R - Suspended
-https://twitter.com/Bghd100 - Suspended
-https://twitter.com/Ali_G303L - Suspended
-https://twitter.com/Ali_G303L - Suspended
-https://twitter.com/41invasion - Suspended
-https://twitter.com/Ad98Dawla - Suspended
-https://twitter.com/rtjfwgr - Suspended
-https://twitter.com/yfh_gcj - Suspended
-https://twitter.com/vrjevve1 - Suspended
-https://twitter.com/lkjhgasdf11 - Suspended
-https://twitter.com/63Ba17q - Suspended
-https://twitter.com/C_NN__15 - Suspended
-https://twitter.com/qjffjf1 - Suspended
-https://twitter.com/watara211 - Suspended
-https://twitter.com/mdf_ss - Suspended
-https://twitter.com/aboodyaa33 - Suspended
-https://twitter.com/qwaq9 - Suspended
-https://twitter.com/VXr8_911_a761 - Suspended
-https://twitter.com/qasem77_is - Suspended
-https://twitter.com/byt_18 - Suspended
-https://twitter.com/Shdd36 - Suspended
-https://twitter.com/isis_1188 - Suspended
-https://twitter.com/frooUmAlBaraa - Suspended
-https://twitter.com/khilafatekrit - Suspended
-https://twitter.com/TagBq08yYyk - Suspended
-https://twitter.com/gffggll1 - Suspended
-https://twitter.com/Shdd36 - Suspended
-https://twitter.com/boxl9xl1 - Suspended
-https://twitter.com/TurMedia318 - Suspended
-https://twitter.com/thecom90 - Suspended
-https://twitter.com/AaaHakam - Suspended
-https://twitter.com/hubaishi35kh - Suspended
-https://twitter.com/TurMedia318 - Suspended
-https://twitter.com/TagBq08yYyk - Suspended
-https://twitter.com/Katusha__28 - Suspended
-https://twitter.com/adg01210 - Suspended
-https://twitter.com/sayyyfff333 - Suspended
-https://twitter.com/AwakGiantxxx - Suspended
-https://twitter.com/islams5E - Suspended
-https://twitter.com/g8670062_7 - Suspended
-https://twitter.com/isisAnbar54 - Suspended
-https://twitter.com/3bdr7mana1 - Suspended
-https://twitter.com/sheeb21 - Suspended
-https://twitter.com/abu_nidhal_32 - Suspended
-https://twitter.com/EPlC14 - Suspended
-https://twitter.com/jundullah_24 - Suspended
-https://twitter.com/Al_Radically01 - Suspended
-https://twitter.com/bint_hijratyn - Suspended
-https://twitter.com/trillionaire_23 - Suspended
-https://twitter.com/AbuRaihaan8 - Suspended
-https://twitter.com/kayadamVF - Suspended
-https://twitter.com/ALG_muslim011 - Suspended
-https://twitter.com/skrp - Suspended
-https://twitter.com/ab0_Sulayman7 - Suspended
-https://twitter.com/killercat600 - Suspended
-https://twitter.com/a_hattem - Suspended
-https://twitter.com/IbnHassany - Suspended
-https://twitter.com/AbuAlasRoban - Suspended
-https://twitter.com/Abusumal3 - Suspended
-https://twitter.com/Waseemalsaudi - Suspended
-https://twitter.com/Khlifa27a12 - Suspended
-https://twitter.com/omar1985741 - Suspended
-https://twitter.com/sadking23 - Suspended
-https://twitter.com/k42isisa - Suspended
-https://twitter.com/monaser0017 - Suspended
-https://twitter.com/Hhdhdg1 - Suspended
-https://twitter.com/isis_1144 - Suspended
-https://twitter.com/SyariahISlight8 - Suspended
-https://twitter.com/AnsarAd98 - Suspended
-https://twitter.com/gp2126 - Suspended
-https://twitter.com/pp62068813 - Suspended
-https://twitter.com/kathebw11 - Suspended
-https://twitter.com/ChicbnmAbn - Suspended
-https://twitter.com/3MlagDO1 - Suspended
-https://twitter.com/abou_amina37 - Suspended
-https://twitter.com/Oo800Oo8001 - Suspended
-https://twitter.com/marsds98zahrany - Suspended
-https://twitter.com/0o00ooq - Suspended
-https://twitter.com/41invasion - Suspended
-https://twitter.com/h90_6 - Suspended
-https://twitter.com/tnt502tnt502 - Suspended
-https://twitter.com/AbuFullaan9th - Suspended
-https://twitter.com/Owais_51 - Suspended
-https://twitter.com/muahied_7 - Suspended
-https://twitter.com/qqeqq00111 - Suspended
-https://twitter.com/vip444662 - Suspended
-https://twitter.com/dgsdg00712420 - Suspended
-https://twitter.com/TurMedia318 - Suspended
-https://twitter.com/GermanyUnderAtk - Suspended
-https://twitter.com/Bushra11_IS - Suspended
-https://twitter.com/TurMedia318 - Suspended
-https://twitter.com/yyf_hallo - Suspended
-https://twitter.com/lba559721 - Suspended
-https://twitter.com/isisom61 - Suspended
-https://twitter.com/jazaer12254477 - Suspended
-https://twitter.com/alsumoud17 - Suspended
-https://twitter.com/DjibrilParisi - Suspended
-https://twitter.com/drwaleed5253 - Suspended
-https://twitter.com/inbes3 - Suspended
-https://twitter.com/Asirat_hramin19 - Suspended
-https://twitter.com/Saifjazraawi - Suspended
-https://twitter.com/uiopup - Suspended
-https://twitter.com/Kassar_Iam - Suspended
-https://twitter.com/JUI_LJ - Suspended
-https://twitter.com/snipern433 - Suspended
-https://twitter.com/dowlawe86 - Suspended
-https://twitter.com/alzrkawi0 - Suspended
-https://twitter.com/5elafaa35 - Suspended
-https://twitter.com/Ucffn1 - Suspended
-https://twitter.com/qazxsw_19 - Suspended
-https://twitter.com/aladeat9 - Suspended
-https://twitter.com/zaid85664023 - Suspended
-https://twitter.com/wazira_104 - Suspended
-https://twitter.com/rolraqqa - Suspended
-https://twitter.com/ammar63309477 - Suspended
-https://twitter.com/abo_roqaia87 - Suspended
-https://twitter.com/sa995723 - Suspended
-https://twitter.com/kj_lklknn - Suspended
-https://twitter.com/Islamichacker1 - Suspended
-https://twitter.com/Abdelkaha19 - Suspended
-https://twitter.com/AL__adnani__71 - Suspended
-https://twitter.com/_27_mano_ - Suspended
-https://twitter.com/53_hd88865653 - Suspended
-https://twitter.com/saqar322 - Suspended
-https://twitter.com/aa156aap - Suspended
-https://twitter.com/aboismail155 - Suspended
-https://twitter.com/E7fS9 - Suspended
-https://twitter.com/jffnfn1 - Suspended
-https://twitter.com/hghg_kee - Suspended
-https://twitter.com/555IMl0O0IHl777 - Suspended
-https://twitter.com/dimaa6789 - Suspended
-https://twitter.com/t7alf_13 - Suspended
-https://twitter.com/58_tatiz - Suspended
-https://twitter.com/tachvin63 - Suspended
-https://twitter.com/palqodpalqod - Suspended
-https://twitter.com/hde054 - Suspended
-https://twitter.com/Ben__106 - Suspended
-https://twitter.com/IgLgKcx7XVqV9JQ - Suspended
-https://twitter.com/12Addabeh - Suspended
-https://twitter.com/abdelfatah03 - Suspended
-https://twitter.com/gjdfoi221qw - Suspended
-https://twitter.com/obaydru - Suspended
-https://twitter.com/kansa_144 - Suspended
-https://twitter.com/67khatabb - Suspended
-https://twitter.com/Ammariraq23 - Suspended
-https://twitter.com/kp_2090 - Suspended
-https://twitter.com/AK47_Diyala - Suspended
-https://twitter.com/mowafaq3 - Suspended
-https://twitter.com/kaher337l11 - Suspended
-https://twitter.com/mhjer2 - Suspended
-https://twitter.com/IslamAK47 - Suspended
-https://twitter.com/aqill43 - Suspended
-https://twitter.com/dd1is22 - Suspended
-https://twitter.com/mohaajer10 - Suspended
-https://twitter.com/Pom2015Zair - Suspended
-https://twitter.com/_alifpasai12 - Suspended
-https://twitter.com/CNN__16 - Suspended
-https://twitter.com/TawheedTawhee83 - Suspended
-https://twitter.com/SDerfol - Suspended
-https://twitter.com/20100news - Suspended
-https://twitter.com/dec337 - Suspended
-https://twitter.com/A__l__A30 - Suspended
-https://twitter.com/ezz_islams - Suspended
-https://twitter.com/gggglllllllll - Suspended
-https://twitter.com/SyariahISlight8 - Suspended
-https://twitter.com/Bilawi__42 - Suspended
-https://twitter.com/mojamwd1 - Suspended
-https://twitter.com/hde054 - Suspended
-https://twitter.com/wazira_104 - Suspended
-https://twitter.com/kubuiman03 - Suspended
-https://twitter.com/lvx_hallo - Suspended
-https://twitter.com/kosare_41 - Suspended
-https://twitter.com/Efgjkklknbb - Suspended
-https://twitter.com/khattabx111 - Suspended
-https://twitter.com/libya3914 - Suspended
-https://twitter.com/wseeinaa - Suspended
-https://twitter.com/abu_muhajir5 - Suspended
-https://twitter.com/mahatmadeen - Suspended
-https://twitter.com/212Birdy - Suspended
-https://twitter.com/11Sumal - Suspended
-https://twitter.com/e57isisa - Suspended
-https://twitter.com/V8_1V - Suspended
-https://twitter.com/Mdkal3 - Suspended
-https://twitter.com/missbrother629 - Suspended
-https://twitter.com/MohamadMarroun - Suspended
-https://twitter.com/arhfeohdimxrkb3 - Suspended
-https://twitter.com/RBJ97954820 - Suspended
-https://twitter.com/Najd18732 - Suspended
-https://twitter.com/sa995723 - Suspended
-https://twitter.com/RBJ97954820 - Suspended
-https://twitter.com/43invasion - Suspended
-https://twitter.com/Khlifa27a12 - Suspended
-https://twitter.com/mustafaklsh12 - Suspended
-https://twitter.com/AbuFullaan9th - Suspended
-https://twitter.com/UMAR____farooq4 - Suspended
-https://twitter.com/t8is2 - Suspended
-https://twitter.com/om_ans_101 - Suspended
-https://twitter.com/om_ans_101 - Suspended
-https://twitter.com/azve76 - Suspended
-https://twitter.com/aqill41 - Suspended
-https://twitter.com/PicotNo - Suspended
-https://twitter.com/h_a_e_23 - Suspended
-https://twitter.com/_irl_toby6 - Suspended
-https://twitter.com/samha1o - Suspended
-https://twitter.com/Muj_93_Hed - Suspended
-https://twitter.com/abohashmily - Suspended
-https://twitter.com/Dollllloeee2 - Suspended
-https://twitter.com/adsgrh1 - Suspended
-https://twitter.com/xddraqqa - Suspended
-https://twitter.com/Ggarib5 - Suspended
-https://twitter.com/wrcvhs - Suspended
-https://twitter.com/eertxgv - Suspended
-https://twitter.com/vboxye - Suspended
-https://twitter.com/abo_roqaia82 - Suspended
-https://twitter.com/h_a_e_23 - Suspended
-https://twitter.com/Muj_93_Hed - Suspended
-https://twitter.com/PicotNo - Suspended
-https://twitter.com/Muj_93_Hed - Suspended
-https://twitter.com/abo_roqaia82 - Suspended
-https://twitter.com/h_a_e_23 - Suspended
-https://twitter.com/Muj_93_Hed - Suspended
-https://twitter.com/PicotNo - Suspended
-https://twitter.com/Muj_93_Hed - Suspended
-https://twitter.com/isis_9966 - Suspended
-https://twitter.com/41invasion - Suspended
-https://twitter.com/t8is2 - Suspended
-https://twitter.com/Misk_2_a - Suspended
-https://twitter.com/UMAR____farooq4 - Suspended
-https://twitter.com/azdyisis55 - Suspended
-https://twitter.com/kayadamVF - Suspended
-https://twitter.com/TurMedia318 - Suspended
-https://twitter.com/RBJ97954820 - Suspended
-https://twitter.com/e45isisa - Suspended
-https://twitter.com/ndnfnfnc1 - Suspended
-https://twitter.com/abo40hmza - Suspended
-https://twitter.com/aboismail156 - Suspended
-https://twitter.com/e45isisa - Suspended
-https://twitter.com/gp2126 - Suspended
-https://twitter.com/isisAnbar54 - Suspended
-https://twitter.com/aa_123_a12 - Suspended
-https://twitter.com/ndnfnfnc1 - Suspended
-https://twitter.com/AlJab - Suspended
-https://twitter.com/WmWmWm57 - Suspended
-https://twitter.com/wilayat_cairo56 - Suspended
+        1. https://twitter.com/hoec15 - Suspended
+        1. https://twitter.com/TurMedia316 - Suspended
+        1. https://twitter.com/azve76 - Suspended
+        1. https://twitter.com/samha1o - Suspended
+        1. https://twitter.com/f75da586675f456 - Suspended
+        1. https://twitter.com/Muj_93_Hed - Suspended
+        1. https://twitter.com/abohashmily - Suspended
+        1. https://twitter.com/Ali_G303L - Suspended
+        1. https://twitter.com/JUI_LJ - Suspended
+        1. https://twitter.com/Misk_2_a - Suspended
+        1. https://twitter.com/rkrk4m25 - Suspended
+        1. https://twitter.com/jxcjcj1 - Suspended
+        1. https://twitter.com/zeses2 - Suspended
+        1. https://twitter.com/sdg42303540 - Suspended
+        1. https://twitter.com/abufalahalhind4 - Suspended
+        1. https://twitter.com/baqiya79R - Suspended
+        1. https://twitter.com/Bghd100 - Suspended
+        1. https://twitter.com/Ali_G303L - Suspended
+        1. https://twitter.com/isis_1188 - Suspended
+        1. https://twitter.com/khilafatekrit - Suspended
+        1. https://twitter.com/gffggll1 - Suspended
+        1. https://twitter.com/Shdd36 - Suspended
+        1. https://twitter.com/TurMedia318 - Suspended
+        1. https://twitter.com/TagBq08yYyk - Suspended
+        1. https://twitter.com/Katusha__28 - Suspended
+        1. https://twitter.com/killercat600 - Suspended
+        1. https://twitter.com/vrjevve1 - Suspended
+        1. https://twitter.com/41invasion - Suspended
+        1. https://twitter.com/TurMedia318 - Suspended
+        1. https://twitter.com/TurMedia318 - Suspended
+        1. https://twitter.com/JUI_LJ - Suspended
+        1. https://twitter.com/wilayat_cairo56 - Suspended
+        1. https://twitter.com/gjdfoi221qw - Suspended
+        1. https://twitter.com/SyariahISlight8 - Suspended
+        1. https://twitter.com/hde054 - Suspended
+        1. https://twitter.com/wazira_104 - Suspended
+        1. https://twitter.com/e45isisa - Suspended
+        1. https://twitter.com/Bghd100 - Suspended
+        1. https://twitter.com/AlJab - Suspended
+        1. https://twitter.com/meersbo2 - Suspended
+        1. https://twitter.com/meersbo2 - Suspended
+        1. https://twitter.com/TurMedia316 - Suspended
+        1. https://twitter.com/TurMedia317 - Suspended
+        1. https://twitter.com/hoec15 - Suspended
+        1. https://twitter.com/hoec15 - Suspended
+        1. https://twitter.com/ll41lll - Suspended
+        1. https://twitter.com/AlJabarti45 - Suspended
+        1. https://twitter.com/abo_roqaia82 - Suspended
+        1. https://twitter.com/gurababiz1551 - Suspended
+        1. https://twitter.com/jhkghjy - Suspended
+        1. https://twitter.com/Hero_isis_711 - Suspended
+        1. https://twitter.com/TurMedia316 - Suspended
+        1. https://twitter.com/JUI_LJ - Suspended
+        1. https://twitter.com/Muj_93_Hed - Suspended
+        1. https://twitter.com/dieebkhel - Suspended
+        1. https://twitter.com/Xkb038 - Suspended
+        1. https://twitter.com/abutalut8 - Suspended
+        1. https://twitter.com/Gqeflfwlemqpdmf - Suspended
+        1. https://twitter.com/alhlby027 - Suspended
+        1. https://twitter.com/SuehwShehe - Suspended
+        1. https://twitter.com/sdsdsd325245 - Suspended
+        1. https://twitter.com/gffggll1 - Suspended
+        1. https://twitter.com/ISIS_1979GMC - Suspended
+        1. https://twitter.com/f75da586675f456 - Suspended
+        1. https://twitter.com/azve76 - Suspended
+        1. https://twitter.com/aqill41 - Suspended
+        1. https://twitter.com/azve76 - Suspended
+        1. https://twitter.com/PicotNo - Suspended
+        1. https://twitter.com/h_a_e_23 - Suspended
+        1. https://twitter.com/_irl_toby6 - Suspended
+        1. https://twitter.com/samha1o - Suspended
+        1. https://twitter.com/f75da586675f456 - Suspended
+        1. https://twitter.com/Muj_93_Hed - Suspended
+        1. https://twitter.com/abohashmily - Suspended
+        1. https://twitter.com/abohashmily - Suspended
+        1. https://twitter.com/wfsfsd - Suspended
+        1. https://twitter.com/azve77 - Suspended
+        1. https://twitter.com/abdalrhan100 - Suspended
+        1. https://twitter.com/Ali_G303L - Suspended
+        1. https://twitter.com/georgebinto1 - Suspended
+        1. https://twitter.com/ahmadvasvv565 - Suspended
+        1. https://twitter.com/Alsloli_dog - Suspended
+        1. https://twitter.com/Misk_2_a - Suspended
+        1. https://twitter.com/Ali_G303L - Suspended
+        1. https://twitter.com/fgh959 - Suspended
+        1. https://twitter.com/sdg42303540 - Suspended
+        1. https://twitter.com/alptter_ - Suspended
+        1. https://twitter.com/umaisha55 - Suspended
+        1. https://twitter.com/leembfs2017 - Suspended
+        1. https://twitter.com/wearekillkofar - Suspended
+        1. https://twitter.com/Om_islam47 - Suspended
+        1. https://twitter.com/_a_a_20 - Suspended
+        1. https://twitter.com/lmj_hallo - Suspended
+        1. https://twitter.com/abu_a_88 - Suspended
+        1. https://twitter.com/JUI_LJ - Suspended
+        1. https://twitter.com/abo_al_zubair - Suspended
+        1. https://twitter.com/Othman14_C4 - Suspended
+        1. https://twitter.com/SamaIQ__90 - Suspended
+        1. https://twitter.com/phupeuea - Suspended
+        1. https://twitter.com/raisiiiiii - Suspended
+        1. https://twitter.com/Misk_2_a - Suspended
+        1. https://twitter.com/SinaiTor - Suspended
+        1. https://twitter.com/xonraqqa - Suspended
+        1. https://twitter.com/aodaaoda4 - Suspended
+        1. https://twitter.com/Rhbdbd1 - Suspended
+        1. https://twitter.com/AAdhim10 - Suspended
+        1. https://twitter.com/abo_67_omar - Suspended
+        1. https://twitter.com/VbnIsrt - Suspended
+        1. https://twitter.com/baqiya79R - Suspended
+        1. https://twitter.com/killercat600 - Suspended
+        1. https://twitter.com/mnhtye - Suspended
+        1. https://twitter.com/Hijazi_9111 - Suspended
+        1. https://twitter.com/jxcjcj1 - Suspended
+        1. https://twitter.com/azdyisis55 - Suspended
+        1. https://twitter.com/nnbb77881 - Suspended
+        1. https://twitter.com/a_t__29__7a - Suspended
+        1. https://twitter.com/Kh_nsa143 - Suspended
+        1. https://twitter.com/210Birdy - Suspended
+        1. https://twitter.com/daish90 - Suspended
+        1. https://twitter.com/fojraqqa - Suspended
+        1. https://twitter.com/saegr2 - Suspended
+        1. https://twitter.com/Ansar5433 - Suspended
+        1. https://twitter.com/Islamic_3344 - Suspended
+        1. https://twitter.com/zeses2 - Suspended
+        1. https://twitter.com/abu_a_89 - Suspended
+        1. https://twitter.com/Rouba56 - Suspended
+        1. https://twitter.com/parisINHELL - Suspended
+        1. https://twitter.com/malekaty891 - Suspended
+        1. https://twitter.com/mouwa7ed_03 - Suspended
+        1. https://twitter.com/R_nxxt_1 - Suspended
+        1. https://twitter.com/rkrk4m25 - Suspended
+        1. https://twitter.com/Hhgff26176827 - Suspended
+        1. https://twitter.com/rkrk4m25 - Suspended
+        1. https://twitter.com/ww_cvf - Suspended
+        1. https://twitter.com/isis_2277 - Suspended
+        1. https://twitter.com/jxcjcj1 - Suspended
+        1. https://twitter.com/gjdfoi221qw - Suspended
+        1. https://twitter.com/smjh2154 - Suspended
+        1. https://twitter.com/Aymanjrjr2 - Suspended
+        1. https://twitter.com/khatabb66 - Suspended
+        1. https://twitter.com/isis_1188 - Suspended
+        1. https://twitter.com/allmah89 - Suspended
+        1. https://twitter.com/mfaw18 - Suspended
+        1. https://twitter.com/Abovaseer34 - Suspended
+        1. https://twitter.com/Cano65525269 - Suspended
+        1. https://twitter.com/AL_adnani_69 - Suspended
+        1. https://twitter.com/zeses2 - Suspended
+        1. https://twitter.com/asloly_____Ws5 - Suspended
+        1. https://twitter.com/zzzassertty233 - Suspended
+        1. https://twitter.com/isis_7744 - Suspended
+        1. https://twitter.com/jahezona13 - Suspended
+        1. https://twitter.com/Katusha__28 - Suspended
+        1. https://twitter.com/abo33dojana1992 - Suspended
+        1. https://twitter.com/sdg42303540 - Suspended
+        1. https://twitter.com/Amatullah_222 - Suspended
+        1. https://twitter.com/aslan555111 - Suspended
+        1. https://twitter.com/Saifaljzrawi - Suspended
+        1. https://twitter.com/abo_ali442 - Suspended
+        1. https://twitter.com/114Muawiya - Suspended
+        1. https://twitter.com/JonnyDavid2 - Suspended
+        1. https://twitter.com/khilafatekrit - Suspended
+        1. https://twitter.com/seto_maiko - Suspended
+        1. https://twitter.com/bent_A1 - Suspended
+        1. https://twitter.com/abufalahalhind4 - Suspended
+        1. https://twitter.com/mustafaklsh12 - Suspended
+        1. https://twitter.com/abuhurairah103 - Suspended
+        1. https://twitter.com/zd__bu - Suspended
+        1. https://twitter.com/baqiya79R - Suspended
+        1. https://twitter.com/Bghd100 - Suspended
+        1. https://twitter.com/Ali_G303L - Suspended
+        1. https://twitter.com/Ali_G303L - Suspended
+        1. https://twitter.com/41invasion - Suspended
+        1. https://twitter.com/Ad98Dawla - Suspended
+        1. https://twitter.com/rtjfwgr - Suspended
+        1. https://twitter.com/yfh_gcj - Suspended
+        1. https://twitter.com/vrjevve1 - Suspended
+        1. https://twitter.com/lkjhgasdf11 - Suspended
+        1. https://twitter.com/63Ba17q - Suspended
+        1. https://twitter.com/C_NN__15 - Suspended
+        1. https://twitter.com/qjffjf1 - Suspended
+        1. https://twitter.com/watara211 - Suspended
+        1. https://twitter.com/mdf_ss - Suspended
+        1. https://twitter.com/aboodyaa33 - Suspended
+        1. https://twitter.com/qwaq9 - Suspended
+        1. https://twitter.com/VXr8_911_a761 - Suspended
+        1. https://twitter.com/qasem77_is - Suspended
+        1. https://twitter.com/byt_18 - Suspended
+        1. https://twitter.com/Shdd36 - Suspended
+        1. https://twitter.com/isis_1188 - Suspended
+        1. https://twitter.com/frooUmAlBaraa - Suspended
+        1. https://twitter.com/khilafatekrit - Suspended
+        1. https://twitter.com/TagBq08yYyk - Suspended
+        1. https://twitter.com/gffggll1 - Suspended
+        1. https://twitter.com/Shdd36 - Suspended
+        1. https://twitter.com/boxl9xl1 - Suspended
+        1. https://twitter.com/TurMedia318 - Suspended
+        1. https://twitter.com/thecom90 - Suspended
+        1. https://twitter.com/AaaHakam - Suspended
+        1. https://twitter.com/hubaishi35kh - Suspended
+        1. https://twitter.com/TurMedia318 - Suspended
+        1. https://twitter.com/TagBq08yYyk - Suspended
+        1. https://twitter.com/Katusha__28 - Suspended
+        1. https://twitter.com/adg01210 - Suspended
+        1. https://twitter.com/sayyyfff333 - Suspended
+        1. https://twitter.com/AwakGiantxxx - Suspended
+        1. https://twitter.com/islams5E - Suspended
+        1. https://twitter.com/g8670062_7 - Suspended
+        1. https://twitter.com/isisAnbar54 - Suspended
+        1. https://twitter.com/3bdr7mana1 - Suspended
+        1. https://twitter.com/sheeb21 - Suspended
+        1. https://twitter.com/abu_nidhal_32 - Suspended
+        1. https://twitter.com/EPlC14 - Suspended
+        1. https://twitter.com/jundullah_24 - Suspended
+        1. https://twitter.com/Al_Radically01 - Suspended
+        1. https://twitter.com/bint_hijratyn - Suspended
+        1. https://twitter.com/trillionaire_23 - Suspended
+        1. https://twitter.com/AbuRaihaan8 - Suspended
+        1. https://twitter.com/kayadamVF - Suspended
+        1. https://twitter.com/ALG_muslim011 - Suspended
+        1. https://twitter.com/skrp - Suspended
+        1. https://twitter.com/ab0_Sulayman7 - Suspended
+        1. https://twitter.com/killercat600 - Suspended
+        1. https://twitter.com/a_hattem - Suspended
+        1. https://twitter.com/IbnHassany - Suspended
+        1. https://twitter.com/AbuAlasRoban - Suspended
+        1. https://twitter.com/Abusumal3 - Suspended
+        1. https://twitter.com/Waseemalsaudi - Suspended
+        1. https://twitter.com/Khlifa27a12 - Suspended
+        1. https://twitter.com/omar1985741 - Suspended
+        1. https://twitter.com/sadking23 - Suspended
+        1. https://twitter.com/k42isisa - Suspended
+        1. https://twitter.com/monaser0017 - Suspended
+        1. https://twitter.com/Hhdhdg1 - Suspended
+        1. https://twitter.com/isis_1144 - Suspended
+        1. https://twitter.com/SyariahISlight8 - Suspended
+        1. https://twitter.com/AnsarAd98 - Suspended
+        1. https://twitter.com/gp2126 - Suspended
+        1. https://twitter.com/pp62068813 - Suspended
+        1. https://twitter.com/kathebw11 - Suspended
+        1. https://twitter.com/ChicbnmAbn - Suspended
+        1. https://twitter.com/3MlagDO1 - Suspended
+        1. https://twitter.com/abou_amina37 - Suspended
+        1. https://twitter.com/Oo800Oo8001 - Suspended
+        1. https://twitter.com/marsds98zahrany - Suspended
+        1. https://twitter.com/0o00ooq - Suspended
+        1. https://twitter.com/41invasion - Suspended
+        1. https://twitter.com/h90_6 - Suspended
+        1. https://twitter.com/tnt502tnt502 - Suspended
+        1. https://twitter.com/AbuFullaan9th - Suspended
+        1. https://twitter.com/Owais_51 - Suspended
+        1. https://twitter.com/muahied_7 - Suspended
+        1. https://twitter.com/qqeqq00111 - Suspended
+        1. https://twitter.com/vip444662 - Suspended
+        1. https://twitter.com/dgsdg00712420 - Suspended
+        1. https://twitter.com/TurMedia318 - Suspended
+        1. https://twitter.com/GermanyUnderAtk - Suspended
+        1. https://twitter.com/Bushra11_IS - Suspended
+        1. https://twitter.com/TurMedia318 - Suspended
+        1. https://twitter.com/yyf_hallo - Suspended
+        1. https://twitter.com/lba559721 - Suspended
+        1. https://twitter.com/isisom61 - Suspended
+        1. https://twitter.com/jazaer12254477 - Suspended
+        1. https://twitter.com/alsumoud17 - Suspended
+        1. https://twitter.com/DjibrilParisi - Suspended
+        1. https://twitter.com/drwaleed5253 - Suspended
+        1. https://twitter.com/inbes3 - Suspended
+        1. https://twitter.com/Asirat_hramin19 - Suspended
+        1. https://twitter.com/Saifjazraawi - Suspended
+        1. https://twitter.com/uiopup - Suspended
+        1. https://twitter.com/Kassar_Iam - Suspended
+        1. https://twitter.com/JUI_LJ - Suspended
+        1. https://twitter.com/snipern433 - Suspended
+        1. https://twitter.com/dowlawe86 - Suspended
+        1. https://twitter.com/alzrkawi0 - Suspended
+        1. https://twitter.com/5elafaa35 - Suspended
+        1. https://twitter.com/Ucffn1 - Suspended
+        1. https://twitter.com/qazxsw_19 - Suspended
+        1. https://twitter.com/aladeat9 - Suspended
+        1. https://twitter.com/zaid85664023 - Suspended
+        1. https://twitter.com/wazira_104 - Suspended
+        1. https://twitter.com/rolraqqa - Suspended
+        1. https://twitter.com/ammar63309477 - Suspended
+        1. https://twitter.com/abo_roqaia87 - Suspended
+        1. https://twitter.com/sa995723 - Suspended
+        1. https://twitter.com/kj_lklknn - Suspended
+        1. https://twitter.com/Islamichacker1 - Suspended
+        1. https://twitter.com/Abdelkaha19 - Suspended
+        1. https://twitter.com/AL__adnani__71 - Suspended
+        1. https://twitter.com/_27_mano_ - Suspended
+        1. https://twitter.com/53_hd88865653 - Suspended
+        1. https://twitter.com/saqar322 - Suspended
+        1. https://twitter.com/aa156aap - Suspended
+        1. https://twitter.com/aboismail155 - Suspended
+        1. https://twitter.com/E7fS9 - Suspended
+        1. https://twitter.com/jffnfn1 - Suspended
+        1. https://twitter.com/hghg_kee - Suspended
+        1. https://twitter.com/555IMl0O0IHl777 - Suspended
+        1. https://twitter.com/dimaa6789 - Suspended
+        1. https://twitter.com/t7alf_13 - Suspended
+        1. https://twitter.com/58_tatiz - Suspended
+        1. https://twitter.com/tachvin63 - Suspended
+        1. https://twitter.com/palqodpalqod - Suspended
+        1. https://twitter.com/hde054 - Suspended
+        1. https://twitter.com/Ben__106 - Suspended
+        1. https://twitter.com/IgLgKcx7XVqV9JQ - Suspended
+        1. https://twitter.com/12Addabeh - Suspended
+        1. https://twitter.com/abdelfatah03 - Suspended
+        1. https://twitter.com/gjdfoi221qw - Suspended
+        1. https://twitter.com/obaydru - Suspended
+        1. https://twitter.com/kansa_144 - Suspended
+        1. https://twitter.com/67khatabb - Suspended
+        1. https://twitter.com/Ammariraq23 - Suspended
+        1. https://twitter.com/kp_2090 - Suspended
+        1. https://twitter.com/AK47_Diyala - Suspended
+        1. https://twitter.com/mowafaq3 - Suspended
+        1. https://twitter.com/kaher337l11 - Suspended
+        1. https://twitter.com/mhjer2 - Suspended
+        1. https://twitter.com/IslamAK47 - Suspended
+        1. https://twitter.com/aqill43 - Suspended
+        1. https://twitter.com/dd1is22 - Suspended
+        1. https://twitter.com/mohaajer10 - Suspended
+        1. https://twitter.com/Pom2015Zair - Suspended
+        1. https://twitter.com/_alifpasai12 - Suspended
+        1. https://twitter.com/CNN__16 - Suspended
+        1. https://twitter.com/TawheedTawhee83 - Suspended
+        1. https://twitter.com/SDerfol - Suspended
+        1. https://twitter.com/20100news - Suspended
+        1. https://twitter.com/dec337 - Suspended
+        1. https://twitter.com/A__l__A30 - Suspended
+        1. https://twitter.com/ezz_islams - Suspended
+        1. https://twitter.com/gggglllllllll - Suspended
+        1. https://twitter.com/SyariahISlight8 - Suspended
+        1. https://twitter.com/Bilawi__42 - Suspended
+        1. https://twitter.com/mojamwd1 - Suspended
+        1. https://twitter.com/hde054 - Suspended
+        1. https://twitter.com/wazira_104 - Suspended
+        1. https://twitter.com/kubuiman03 - Suspended
+        1. https://twitter.com/lvx_hallo - Suspended
+        1. https://twitter.com/kosare_41 - Suspended
+        1. https://twitter.com/Efgjkklknbb - Suspended
+        1. https://twitter.com/khattabx111 - Suspended
+        1. https://twitter.com/libya3914 - Suspended
+        1. https://twitter.com/wseeinaa - Suspended
+        1. https://twitter.com/abu_muhajir5 - Suspended
+        1. https://twitter.com/mahatmadeen - Suspended
+        1. https://twitter.com/212Birdy - Suspended
+        1. https://twitter.com/11Sumal - Suspended
+        1. https://twitter.com/e57isisa - Suspended
+        1. https://twitter.com/V8_1V - Suspended
+        1. https://twitter.com/Mdkal3 - Suspended
+        1. https://twitter.com/missbrother629 - Suspended
+        1. https://twitter.com/MohamadMarroun - Suspended
+        1. https://twitter.com/arhfeohdimxrkb3 - Suspended
+        1. https://twitter.com/RBJ97954820 - Suspended
+        1. https://twitter.com/Najd18732 - Suspended
+        1. https://twitter.com/sa995723 - Suspended
+        1. https://twitter.com/RBJ97954820 - Suspended
+        1. https://twitter.com/43invasion - Suspended
+        1. https://twitter.com/Khlifa27a12 - Suspended
+        1. https://twitter.com/mustafaklsh12 - Suspended
+        1. https://twitter.com/AbuFullaan9th - Suspended
+        1. https://twitter.com/UMAR____farooq4 - Suspended
+        1. https://twitter.com/t8is2 - Suspended
+        1. https://twitter.com/om_ans_101 - Suspended
+        1. https://twitter.com/om_ans_101 - Suspended
+        1. https://twitter.com/azve76 - Suspended
+        1. https://twitter.com/aqill41 - Suspended
+        1. https://twitter.com/PicotNo - Suspended
+        1. https://twitter.com/h_a_e_23 - Suspended
+        1. https://twitter.com/_irl_toby6 - Suspended
+        1. https://twitter.com/samha1o - Suspended
+        1. https://twitter.com/Muj_93_Hed - Suspended
+        1. https://twitter.com/abohashmily - Suspended
+        1. https://twitter.com/Dollllloeee2 - Suspended
+        1. https://twitter.com/adsgrh1 - Suspended
+        1. https://twitter.com/xddraqqa - Suspended
+        1. https://twitter.com/Ggarib5 - Suspended
+        1. https://twitter.com/wrcvhs - Suspended
+        1. https://twitter.com/eertxgv - Suspended
+        1. https://twitter.com/vboxye - Suspended
+        1. https://twitter.com/abo_roqaia82 - Suspended
+        1. https://twitter.com/h_a_e_23 - Suspended
+        1. https://twitter.com/Muj_93_Hed - Suspended
+        1. https://twitter.com/PicotNo - Suspended
+        1. https://twitter.com/Muj_93_Hed - Suspended
+        1. https://twitter.com/abo_roqaia82 - Suspended
+        1. https://twitter.com/h_a_e_23 - Suspended
+        1. https://twitter.com/Muj_93_Hed - Suspended
+        1. https://twitter.com/PicotNo - Suspended
+        1. https://twitter.com/Muj_93_Hed - Suspended
+        1. https://twitter.com/isis_9966 - Suspended
+        1. https://twitter.com/41invasion - Suspended
+        1. https://twitter.com/t8is2 - Suspended
+        1. https://twitter.com/Misk_2_a - Suspended
+        1. https://twitter.com/UMAR____farooq4 - Suspended
+        1. https://twitter.com/azdyisis55 - Suspended
+        1. https://twitter.com/kayadamVF - Suspended
+        1. https://twitter.com/TurMedia318 - Suspended
+        1. https://twitter.com/RBJ97954820 - Suspended
+        1. https://twitter.com/e45isisa - Suspended
+        1. https://twitter.com/ndnfnfnc1 - Suspended
+        1. https://twitter.com/abo40hmza - Suspended
+        1. https://twitter.com/aboismail156 - Suspended
+        1. https://twitter.com/e45isisa - Suspended
+        1. https://twitter.com/gp2126 - Suspended
+        1. https://twitter.com/isisAnbar54 - Suspended
+        1. https://twitter.com/aa_123_a12 - Suspended
+        1. https://twitter.com/ndnfnfnc1 - Suspended
+        1. https://twitter.com/AlJab - Suspended
+        1. https://twitter.com/WmWmWm57 - Suspended
+        1. https://twitter.com/wilayat_cairo56 - Suspended
 
 =======================================================
 =====TWITTERS ACCOUNT DELETED========================
@@ -1916,9 +1914,15 @@ http://www.iaisite.info/ -> Not available now
 http://islamiciraq.modawanati.com/ -> Not Available now
 --------------------
 
-
 We Are Anonymous
 We are legion
 We do not forgive
 We do not forget
-Expect Us
+Expect UsS yohttp://www.nexeya.fr/gallerie/_conf/
+http://www.nexeya.fr/gallerie/_conf/
+http://www.nexeya.fr/gallerie/_conf/
+http://www.nexeya.fr/gallerie/_conf/
+http://www.nexeya.fr/gallerie/_conf/
+http://www.nexeya.fr/gallerie/_conf/
+http://www.nexeya.fr/gallerie/_conf/
+n      -
