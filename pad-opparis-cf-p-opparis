@@ -1,0 +1,1323 @@
+
+=============================================================================================
+=========================================== #OpParis.FR=======================================
+================================================== ===========================================
+OpParis Video : https://www.youtube.com/watch?v=jF_WXlzPKAU by TheOnlyAnonymous
+NO DDOS / NO DUMP / NO HACK for the moment
+ 
+=============================================================================================
+=================================INFORMATION AND NOTES======================================
+=============================================================================================
+ 
+==========================================
+===== Operation Info =========================
+===========================================
+http://pastebin.com/93FeEZBV                                
+ 
+  Op General Information:
+| https://pad.riseup.net/p/Paris
+|                                         
+| Resumé de l'OP:
+| https://pad.riseup.net/p/OpParis
+|
+| Pad international:
+| https://pad.riseup.net/p/OpParis_TARGETS
+|
+| Intel :
+| https://pad.riseup.net/p/OpParis_INTELLIGENCE
+|
+============================================ 
+=========== INFO operation End =================
+============================================
+ 
+============================================
+============SOMMAIRE=======================
+============================================
+ 
+MERCI DE BIEN RESECTER LES DIFFERENTES SECTIONS ET DE NE PAS FOUTRE LE BORDEL !!!!!!
+ 
+AVANT DE COPIER COLLER UN LIEN VERIFIEZ QU IL N Y EST PAS DEJA (Ctrl + F)
+ 
+Process
+Tools
+Known Hashtags
+BOTS
+Onion site
+Twitter accounts supporting  ISIS
+Twitter Accounts suspended
+Twitter Accounts Deleted
+Facebook account Supporting ISIS
+Tumblr account Supporting ISIS
+Telegram Channels Suporting ISIS
+ISIS supporting website
+Diverse ISIS related Medias
+Syrian Isp's
+Clues
+Dumped Mail ISIS Related
+Web Server ISIS Related
+ 
+========================================
+======END OF SOMMAIRE==================
+========================================
+ 
+========================================
+========PROCESS=======================
+=======================================
+ 
+###########
+SECURITY : DON'T CLICK ON LINKS WHICH ARE NOT SOCIAL NETWORKS PLATFORM IF YOU ARE NOT AT LEAST IP PROTECTED
+ 
+###########
+ENGLISH :
+1) Find whatever is related to ISIS Twitter / Facebook / URL
+2)For Twitters account try to find as much as possible : .onion/ URL / Mail / name...
+3) Post here informations after you checked it
+4) Post the twitter account so it can be suspended (Ty Python)
+ 
+FRENCH:
+1/ Trouver tout ce qui touche à ISIS : Compte twitter/Page Facebook/Site internet
+2/ Pour les comptes twitter, veillez à récupérer toutes informations susceptible d'être intéressante : .onion/site internet/mail/....
+3/ Une fois les informations récupérées, les poster sur le pad
+4/ Poster ensuite le compte twitter pour qu'ils puissent être suspendu à l'aide du bot
+###########
+ 
+======================================
+===========END OF PROCESS=============
+======================================
+ 
+=====================================
+================TOOLS================
+=====================================
+ 
+Duped twitter account verification / Doublon de compte twitter http://51.254.139.11/duplicate.php
+Suspended twitter account verification / Suspension de compte twitter: http://51.254.139.11/index.php
+Report Cloudfare - https://www.cloudflare.com/abuse/form
+List of occurencies / Liste des occurences : http://pastebin.com/UCxFztNn
+Deepweb : https://hss3uro2hsxfogfq.onion.to/
+Tools REQUEST : extract hashtags from ISIS accounts
+ 
+====================================
+========== END OF TOOLS=============
+====================================
+ 
+===================================
+-===========ISIS Hashtags:===========
+===================================
+#Khilafah_infos
+#Baris__ial
+#ParisAttacks
+#ParisShooting
+#ParisBurn
+# GTAParis   (usado aqui https://twitter.com/AlJab arti46 / status / 665992240997801984) (suspenso)
+#باريس_قبل_روما # Wich significa "Paris before Roma" 
+#باريس_تشتعل 
+#دولة_الخلافة
+#SupportISIS
+#ISISLove
+#Baqiya
+#BaqiyaFamily
+#BaqiyahFamily
+#baqiyafamilyUnited
+#CyberCaliphate
+#IslamicState
+#عاجل#دولة_الخلافة#ولاية_الأنبار
+ 
+====================================
+======END OF HASHTAGS==============
+====================================
+ 
+===============================
+=========BOTS==================
+==============================
+ 
+There is a system, made by a fellow anon, that has been deployed before. The system acts like a botnet to collect, coordinate, and take down targets. It is comprised of a "loader" that uploads the targets to a protected and secure command and control system. This system also discards duplicates, verifies targets as still active, and distributes them to the pool of active participants in real time. The c&c may then be used by "bots"that will perform certain actions. Many different types of bots may be constructed and used. For example, there are several forms of twittebots. One which simply files complaints with twitter (for those who want to help but notcmmit crimes). Other forms of bots will attempt to brute force targets, fileexcessive password resets, spam, etc. In other words, any form of attack that be conceived may be constructed and executed. This system coordinates all of the efforts so that they are all working together and sharing to ensure a highly effective fighting force. Its results are staggering. When people work together, they are unstoppable.
+ 
+Targets need to be placed into a text file with one target per line. Stripping the http/https link and @ is also helpful. Targets may then be loaded into the system for organizing the attacks. It will collect data on successful takedowns/ suspentions. The system was/is highly effective in removing isis accounts ontwitter.
+ 
+Available bots for twitter accounts will:
+    1) File a complaint with twitter fr
+    2) Place targets into a twitter post in a formatted manner to allow for secondary bot groups. Capable of multiple source / sender accounts.
+ 
+ 
+This system is also capable of handling other types ofb 4targets. There are otherforms of social media, web sites, etc. This system has been designed to handle all of them.
+If you are interested in building your own bots to work with this system, please chat with bnon irc.anonops.com SSL 6697
+ 
+Using these bots, a VPN is recommended. Please consider leaving the program running so that you can assist in take downs as new accounts are discovered.These bots are completely legal and violate no laws. However, you might consider creating a new twitter account. Thank you for your support. Fuck isis.
+ 
+------------------------------------------------------------------------
+[PYTHON]MASS REPORT
+------------------------------------------------------------------------
+ 
+ 
+Préalable :
+    - Télécharger Python 2.7 : https://www.python.org/downloads/
+    - Install Splinter
+    -On UNIX, follow instructions : http://splinter.readthedocs.org/en/latest/install.html.
+    -On Windows : get the zip : https://github.com/cobrateam/splinter/archive/master.zip
+      unzip on your disk, open a terminal (start menu -> type cmd -> launch cmd.exe)
+                                    go in the folder you unzip splinter (cd XXXX)
+                                    launch 'python setup.py install'
+                                    
+1/ Copier entièrement la page du PAD dans un fichier txt afin d'extraire les comptes twitters 
+2/ Télécharger le fichier python suivant : https://github.com/anonymous247742/TwitterUrlExtractor
+3/ Le lancer en faisant python twitterUrlExtractor.py -u fichier.txt 
+fichier.txt contient le pad que vous avez copié 
+4/ Avec le fichier obtenu (qui est enregistré à la racine de twitterUrlExtractor.py, nous allons utilser le fichier python Mass Report
+5/- Télécharger le script : https://github.com/anonymous247742/TwitterReport
+6/ Mettez tout les fichiers dans le même dossier de préférence dans C:\Python27\
+7/ Dans le terminal mettez python twitterReport.py -u PSEUDOTWITTER -i fichiergenererau3.txt
+ 
+1 - Install Python 2.7 : https://www.python.org/downloads/
+2 - Install Splinter
+    - On UNIX, follow instructions : http://splinter.readthedocs.org/en/latest/install.html.
+    - On Windows : get the zip : https://github.com/cobrateam/splinter/archive/master.zip
+                                    unzip on your disk, open a terminal (start menu -> type cmd -> launch cmd.exe)
+                                    go in the folder you unzip splinter (cd XXXX)
+                                    launch 'python setup.py install'
+3 - Get the python script : https://github.com/anonymous247742/TwitterReport
+4 - Get the twitter accounts list (example : http://pastebin.com/raw.php?i=3VD4FM1d )
+    save it for example as TwitList.txt in the same folder as twitterReport.py
+5 - In the terminal go in the folder you saved report_twitter.py and TwitList.txt
+6 - Launch 'python twitterReport.py -u YOURUSERNAME -i TwitList.txt
+ 
+----------------------------------------------------------------
+[Python] Extract Twitter URLs from text
+----------------------------------------------------------------
+ENG: This python script extracts the Twitter Urls when giveN a URL
+FR: Ce script python permet d'extraire les URLs Twitter depuis un fichier texte ou une URL.
+https://github.com/anonymous247742/TwitterUrlExtractor
+ 
+ 
+=====================================================================================================
+==================================END OF BOTS=======================================================
+=====================================================================================================
+ 
+=====================================================================================================
+================================== END OF INFORMATION AND NOTES =====================================
+=====================================================================================================
+ 
+ =============================================================================================
+============================= SECTION SITE ON .ONION =========================================
+==============================================================================================
+ 
+ 
+http://isdratetp4donyfy.onion.link/e?id=29654
+http://isdratetp4donyfy.onion/
+ 
+===============================================================================================
+================================Twitter account supporting ISIS=======================================
+===============================================================================================
+ ================================================
+TARGETS1: ALL (ONLY) TWITTER ACCOUNTS
+================================================
+TARGETS2: https://pad.riseup.net/p/OpParis_TARGETS2 ALL SUSPENDED/DELETED TWITTER ACCOUNTS & ALL OTHER ACCOUNTS
+=================================================
+All backups can be found here: https://trello.com/b/Cpr8a3DE/opparis
+RECENT BACKUP: http://pastebin.com/D5EQPVAP (if you back the pad up, post it in the chat and change this!)
+===============================================================================================
+================================Twitter account supporting ISIS================================
+===============================================================================================
+
+httos://twitter.com/ik_ss_6000
+https://twitter.com/ramiallolah (real time news !)
+https://twitter.com/timbosulli - 64 Followers
+https://twitter.com/timbosulli - 64 Followers
+https://twitter.com/timbosulli - 64 Followers
+https://twitter.com/qatada_93 - 308 Followers
+https://twitter.com/aljanady75 - 85 Followers
+https://twitter.com/_Mi_Sk_ - 304 Followers
+https://twitter.com/ISIS1995DD - 849 Followers
+https://twitter.com/moohger121 - 174 Followers
+https://twitter.com/iislamic12 - 518 Followers
+https://twitter.com/MhdSayf - 90 Followers
+https://twitter.com/ibn_abdiqany - 204 Followers
+https://twitter.com/Dhhd4874 - 1 222 Followers
+https://twitter.com/Migrant2Allah - 1 855 Followers
+https://twitter.com/abu2legend - 105 Followers
+https://twitter.com/Saeed_alHalabi0 - 2 036 Followers
+https://twitter.com/iislamic12 - 518 Followers
+https://twitter.com/ibn_e_umarr - 155 Followers
+https://twitter.com/ayshafalaste2 - 2 538 Followers
+https://twitter.com/Fahad_Buhendi - 429 k Followers
+https://twitter.com/VegetaMoustache - 8 644 Followers
+https://twitter.com/abubakr1435 - 137 Followers
+https://twitter.com/bodyking8484 - 32 Followers
+https://twitter.com/wilayet_alhabas - 232 Followers
+https://twitter.com/ayshafalaste2 - 2 538 Followers
+https://twitter.com/dola24687 - 3 418 Followers
+https://twitter.com/Bbdbd8 - 502 Followers
+https://twitter.com/khilafah01_ - 120 Followers
+https://twitter.com/dola24687 - 3 419 Followers
+https://twitter.com/jihadiuser58 - 1 939 Followers
+https://twitter.com/nor92331 - 111 Followers
+https://twitter.com/_ihsen_086_ - 223 Followers
+https://twitter.com/saeu17 - 10 Followers
+https://twitter.com/saeu17 - 10 Followers
+https://twitter.com/Yamani_5 - 117 Followers
+https://twitter.com/tamer1437 - 14 Followers
+https://twitter.com/qwerwoow - 233 Followers
+https://twitter.com/abu_khalid118 - 82 Followers
+https://twitter.com/Dhhd4874 - 1 224 Followers
+https://twitter.com/aawwss_22 - 1 277 Followers
+https://twitter.com/AnsarAlSharia13 - 133 Followers
+https://twitter.com/solyia_S - 724 Followers
+https://twitter.com/HuChuin_63 - 1 256 Followers
+https://twitter.com/NeightMid - 391 Followers
+https://twitter.com/Dhhd4874 - 1 224 Followers
+https://twitter.com/Ali7070Alisalam - 12 Followers
+https://twitter.com/soman611 - 534 Followers
+https://twitter.com/xxx__800 - 148 Followers
+https://twitter.com/88ibramz - 782 Followers
+https://twitter.com/OT_lll57 - 1 114 Followers
+https://twitter.com/samaka_26 - 891 Followers
+https://twitter.com/Hamdan25Odai - 962 Followers
+https://twitter.com/kalmat_haaq - 6 612 Followers
+https://twitter.com/itc_hallo - 62 Followers
+https://twitter.com/SomQaeda - 965 Followers
+https://twitter.com/TARLEE4 - 48 Followers
+https://twitter.com/HJdjdu - 619 Followers
+https://twitter.com/dola24687 - 3 423 Followers
+https://twitter.com/timbosulli - 64 Followers
+https://twitter.com/allbasra - 117 Followers
+https://twitter.com/mahmood - 10,9 k Followers
+https://twitter.com/goo_ias - 29 Followers
+https://twitter.com/rdcongo_news - 86 Followers
+https://twitter.com/Amirbakistani3 - 193 Followers
+https://twitter.com/Alhareth_2 - 213 Followers
+https://twitter.com/FoopSeven - 252 Followers
+https://twitter.com/R9O7GupXDM0b0pd - 1 030 Followers
+https://twitter.com/Ansar_AlSharia0 - 266 Followers
+https://twitter.com/om_elbarae1 - 496 Followers
+https://twitter.com/saadsaudi2014 - 520 Followers
+https://twitter.com/timotim91217281 - 451 Followers
+https://twitter.com/ii_o_01ru - 694 Followers
+https://twitter.com/aljanady75 - 85 Followers
+https://twitter.com/_Mi_Sk_ - 304 Followers
+https://twitter.com/ISIS1995DD - 849 Followers
+https://twitter.com/moohger121 - 174 Followers
+https://twitter.com/Omisshaq - 262 Followers
+https://twitter.com/qatada_93 - 308 Followers
+https://twitter.com/Is_zarkiue - 1 475 Followers
+https://twitter.com/algwsd2233 - 180 Followers
+https://twitter.com/dfgndf2 - 883 Followers
+https://twitter.com/islamic_iso - 10 Followers
+https://twitter.com/truth_ee - 22,8 k Followers
+https://twitter.com/Fahad_Buhendi - 429 k Followers
+https://twitter.com/er_er_500 - 1 376 Followers
+https://twitter.com/86Roben - 332 Followers
+https://twitter.com/DsdsdsfSddsd - 207 Followers
+https://twitter.com/sadkingp20 - 727 Followers
+https://twitter.com/noor_sban6 - 398 Followers
+https://twitter.com/is5_is5 - 1 906 Followers
+https://twitter.com/qatada_93 - 308 Followers
+https://twitter.com/nedalo9314 - 2 180 Followers
+https://twitter.com/Mar44ma - 1 271 Followers
+https://twitter.com/Manaln9 - 1 474 Followers
+https://twitter.com/aljanady75 - 85 Followers
+https://twitter.com/_Mi_Sk_ - 304 Followers
+https://twitter.com/ISIS1995DD - 849 Followers
+https://twitter.com/moohger121 - 174 Followers
+https://twitter.com/198_mazen - 443 Followers
+https://twitter.com/CavalierDuSham - 250 Followers
+https://twitter.com/NaserIS8 - 3 311 Followers
+https://twitter.com/oumme_aymen10 - 592 Followers
+https://twitter.com/gaznaya - 107 Followers
+https://twitter.com/un_serviteur - 1 429 Followers
+https://twitter.com/Tekindebeyvin - 94 Followers
+https://twitter.com/VegetaMoustache - 8 644 Followers
+https://twitter.com/MillatIbrahim1 - 218 Followers
+https://twitter.com/Hayati_LiLLah_ - 759 Followers
+https://twitter.com/Alitt1245 - 84 Followers
+https://twitter.com/salehalawlqi1 - 116 Followers
+https://twitter.com/_Mi_Sk_ - 304 Followers
+https://twitter.com/waswa0127 - 220 Followers
+https://twitter.com/ali523480 - 1 584 Followers
+https://twitter.com/AnsarAlSharia13 - 133 Followers
+https://twitter.com/MhdSayf - 91 Followers
+https://twitter.com/IS_IS021 - 1 066 Followers
+https://twitter.com/IS_IS022 - 155 Followers
+https://twitter.com/AbdAllahGaza -  Followers
+https://twitter.com/khilafah01_ - 120 Followers
+https://twitter.com/iislamic12 - 521 Followers
+https://twitter.com/ajmurgent - 535 k Followers
+https://twitter.com/abujamaludeen02 - 83 Followers
+https://twitter.com/ibn_abdiqany - 202 Followers
+https://twitter.com/MisciFromTheD - 445 Followers
+https://twitter.com/3aam_Al_Diri - 46 Followers
+https://twitter.com/alaser100 - 361 Followers
+https://twitter.com/asd4000hd - 192 Followers
+https://twitter.com/mhunc1231 - 73 Followers
+https://twitter.com/Baghdad9191 - 376 Followers
+https://twitter.com/A___A_c - 2 242 Followers
+https://twitter.com/soman611 - 534 Followers
+https://twitter.com/ezzislamm - 1 090 Followers
+https://twitter.com/ach3ari_maliki - 992 Followers
+https://twitter.com/waja__1 - 235 Followers
+https://twitter.com/haydra2233 - 105 Followers
+https://twitter.com/Asirat_Tunisia1 - 3 084 Followers
+https://twitter.com/KA_ll7 - 985 Followers
+https://twitter.com/aljabri354 - 4 372 Followers
+https://twitter.com/msaks241 - 3 133 Followers
+https://twitter.com/wffff11089 - 204 Followers
+https://twitter.com/Djjjdjd4 - 784 Followers
+https://twitter.com/qq_qq_79 - 138 Followers
+https://twitter.com/OT_lll57 - 1 115 Followers
+https://twitter.com/Migrant2Allah - 1 858 Followers
+https://twitter.com/adgr19 - 584 Followers
+https://twitter.com/rkrk4m26 - 659 Followers
+https://twitter.com/kaj__s - 401 Followers
+https://twitter.com/ABu_AlAyInaa - 1 401 Followers
+https://twitter.com/ABO_SLEMAN_9 - 8 479 Followers
+https://twitter.com/d_mf33 - 2 327 Followers
+https://twitter.com/Turbo_zahid - 108 Followers
+https://twitter.com/IlTllillTIl - 970 Followers
+https://twitter.com/abu_juuad - 390 Followers
+https://twitter.com/Asd15Wreg - 1 744 Followers
+https://twitter.com/Ha23ra3F987 - 4 428 Followers
+https://twitter.com/UiU_o_UiU - 202 Followers
+https://twitter.com/isuwh - 366 Followers
+https://twitter.com/zajell8 - 229 Followers
+https://twitter.com/j3x_w8p - 710 Followers
+https://twitter.com/dfgvdffcxx - 208 Followers
+https://twitter.com/ississ_is - 1 194 Followers
+https://twitter.com/DrAlnefisi - 810 k Followers
+https://twitter.com/zeydusame5 - 198 Followers
+https://twitter.com/KH50380 - 7 506 Followers
+https://twitter.com/dskvnsflk - 39 Followers
+https://twitter.com/aboalhsn1111 - 321 Followers
+https://twitter.com/ibn_abdiqany - 202 Followers
+https://twitter.com/Bbdbd8 - 506 Followers
+https://twitter.com/ayshafalaste2 - 2 538 Followers
+https://twitter.com/Dhhd4874 - 1 235 Followers
+https://twitter.com/Dr_MagedMohamad - 9 374 Followers
+https://twitter.com/omar14373 - 4 Followers
+https://twitter.com/Dhhd4874 - 1 235 Followers
+https://twitter.com/akhy01 - 477 Followers
+https://twitter.com/HuChuin_63 - 1 257 Followers
+https://twitter.com/Aamn145Aamn - 155 Followers
+https://twitter.com/DERA_AR - 113 Followers
+https://twitter.com/Migrant2Allah - 1 859 Followers
+https://twitter.com/syppmgyfsvx34 - 611 Followers
+https://twitter.com/abu2legend - 105 Followers
+https://twitter.com/bhCotn - 1 574 Followers
+https://twitter.com/aboferasalhalab - 31,7 k Followers
+https://twitter.com/arradar1 - 715 Followers
+https://twitter.com/an_qa3 - 873 Followers
+https://twitter.com/mhmdfaisel - 3 561 Followers
+https://twitter.com/___17G_________ - 511 Followers
+https://twitter.com/kjul03 - 48 Followers
+https://twitter.com/jihadist_s - 1 107 Followers
+https://twitter.com/Saeed_alHalabi0 - 2 037 Followers
+https://twitter.com/x150isisa - 147 Followers
+https://twitter.com/moslem_1110 - 144 Followers
+https://twitter.com/HdIsishd - 311 Followers
+https://twitter.com/iislamic12 - 514 Followers
+https://twitter.com/ibn_e_umarr - 155 Followers
+https://twitter.com/ibn_e_umarr - 155 Followers
+https://twitter.com/wilayet_alhabas - 232 Followers
+https://twitter.com/aadr40 - 224 Followers
+https://twitter.com/ali112777 - 1 612 Followers
+https://twitter.com/abuanas_13 - 331 Followers
+https://twitter.com/m1b2q - 85 Followers
+https://twitter.com/ir_12_aq - 115 Followers
+https://twitter.com/ayshafalaste2 - 2 538 Followers
+https://twitter.com/Bukhari_7 - 933 Followers
+https://twitter.com/Dawlastan - 93 Followers
+https://twitter.com/Fahad_Buhendi - 429 k Followers
+https://twitter.com/VegetaMoustache - 8 645 Followers
+https://twitter.com/norry28974869 - 526 Followers
+https://twitter.com/dherghamm31 - 118 Followers
+https://twitter.com/maheridlbe1 - 180 Followers
+https://twitter.com/eysaneyw22 - 463 Followers
+https://twitter.com/abubakr1435 - 137 Followers
+https://twitter.com/bodyking8484 - 32 Followers
+https://twitter.com/AL_____21 - 91 Followers
+https://twitter.com/nasirulddin - 863 Followers
+https://twitter.com/abubakr1435 - 137 Followers
+https://twitter.com/bodyking8484 - 32 Followers
+https://twitter.com/_ihsen_086_ - 220 Followers
+https://twitter.com/q___zx4 - 420 Followers
+https://twitter.com/abohatim122 - 206 Followers
+https://twitter.com/ShShlondon2027 - 1 771 Followers
+https://twitter.com/xcvraqqa - 651 Followers
+https://twitter.com/ahmed88a2 - 667 Followers
+https://twitter.com/nomangias - 553 Followers
+https://twitter.com/moosabm738 - 205 Followers
+https://twitter.com/WF4WF4 - 503 Followers
+https://twitter.com/EhsanAhrar5 - 1 233 Followers
+https://twitter.com/soly_ia - 484 Followers
+https://twitter.com/janah_sabil - 454 Followers
+https://twitter.com/LucasAnton58 - 29 Followers
+https://twitter.com/saeaf1986 - 51 Followers
+https://twitter.com/SdffksoJ - 772 Followers
+https://twitter.com/abo_askndr1166 - 2 345 Followers
+https://twitter.com/andre_poulin49 - 332 Followers
+https://twitter.com/hamah_094 - 87 Followers
+https://twitter.com/IlIl32lIlI - 1 115 Followers
+https://twitter.com/ahmdb10591 - 122 Followers
+https://twitter.com/baskan360 - 8 312 Followers
+https://twitter.com/ali1133asd - 117 Followers
+https://twitter.com/wilayet_alhabas - 232 Followers
+https://twitter.com/ayshafalaste2 - 2 538 Followers
+https://twitter.com/ss__k37 - 216 Followers
+https://twitter.com/dsgbxv1 - 198 Followers
+https://twitter.com/ZAZAZAZ77538028 - 245 Followers
+https://twitter.com/jihadiuser58 - 1 958 Followers
+https://twitter.com/mseo556 - 2 790 Followers
+https://twitter.com/da3sh11 - 1 403 Followers
+https://twitter.com/solyia_S - 735 Followers
+https://twitter.com/6rY5BpfDrlEez0o - 117 Followers
+https://twitter.com/klash252 - 63 Followers
+https://twitter.com/afsd111 - 11 Followers
+https://twitter.com/dolawi_y - 40 Followers
+https://twitter.com/dola24687 - 3 432 Followers
+https://twitter.com/abobilal11436 - 728 Followers
+https://twitter.com/mohb_7 - 64 Followers
+https://twitter.com/Bbdbd8 - 504 Followers
+https://twitter.com/karim_soura - 118 Followers
+https://twitter.com/mhsyaf4 - 536 Followers
+https://twitter.com/001_Jabhat - 48 Followers
+https://twitter.com/saqur27 - 256 Followers
+https://twitter.com/alrawimot - 71 Followers
+https://twitter.com/ansary2banghaz - 303 Followers
+https://twitter.com/ali_1987_mag - 3 093 Followers
+https://twitter.com/madnov28 - 99 Followers
+https://twitter.com/kjknh1 - 194 Followers
+https://twitter.com/elturkii1 - 88 Followers
+https://twitter.com/Abuaishah_01 - 592 Followers
+https://twitter.com/hassin2121 - 19 Followers
+https://twitter.com/all_ameer47 - 221 Followers
+https://twitter.com/Sultan1Engabu - 207 Followers
+https://twitter.com/asdmiabr - 42 Followers
+https://twitter.com/JgcZq - 48 Followers
+https://twitter.com/jamalbasha_000 - 2 345 Followers
+https://twitter.com/irontekken94 - 19 Followers
+https://twitter.com/Skxxxnews - 335 Followers
+https://twitter.com/isisom60 - 3 036 Followers
+https://twitter.com/HyAm1999 - 163 Followers
+https://twitter.com/adnan1177655249 - 40 Followers
+https://twitter.com/islam_net2 - 172 Followers
+https://twitter.com/ghareb_alsomal - 287 Followers
+https://twitter.com/turmeda000313 - 63 Followers
+https://twitter.com/Anbar5m - 307 Followers
+https://twitter.com/de2mu - 2 212 Followers
+https://twitter.com/c429197ed6d0474 - 6 Followers
+https://twitter.com/abdallah28891 - 143 Followers
+https://twitter.com/abuoyosfalansa5 - 256 Followers
+https://twitter.com/joso99292 - 235 Followers
+https://twitter.com/ghasal0 - 84 Followers
+https://twitter.com/agwied - 316 Followers
+https://twitter.com/zh74cLdPD9Uf3KO - 19 Followers
+https://twitter.com/kh8gh - 40 Followers
+https://twitter.com/gmcgmc888870 - 126 Followers
+https://twitter.com/0178105 - 7 Followers
+https://twitter.com/kkk_aymenbas95 - 23 Followers
+https://twitter.com/AbSallahdin9 - 148 Followers
+https://twitter.com/osamatz - 45 Followers
+https://twitter.com/PraySalah - 99 Followers
+https://twitter.com/56a37f7197ba41c - 83 Followers
+https://twitter.com/AbuSeid123 - 113 Followers
+https://twitter.com/OmarTheMuslim - 81 Followers
+https://twitter.com/umm_nigeri - 206 Followers
+https://twitter.com/Islam4EveryOne_ - 20 Followers
+https://twitter.com/amiromar1975 - 15 Followers
+https://twitter.com/shahkhannum1 - 47 Followers
+https://twitter.com/__Slavery93 - 9 Followers
+https://twitter.com/NikoRea_ - 1 219 Followers
+https://twitter.com/987uzhg43efdv - 26 Followers
+https://twitter.com/Tariqul_Mawt - 63 Followers
+https://twitter.com/ben7491 - 55 Followers
+https://twitter.com/AlMuwahhidi - 3 Followers
+https://twitter.com/khilafah01_ - 119 Followers
+https://twitter.com/therinshaAllah - 39 Followers
+https://twitter.com/mod3stbeliever - 4 Followers
+https://twitter.com/HanzaKhattab - 166 Followers
+https://twitter.com/abujalaall - 54 Followers
+https://twitter.com/Ansar_Dawla10 - 58 Followers
+https://twitter.com/yesteyesic4 - 174 Followers
+https://twitter.com/lieffejongen - 24 Followers
+https://twitter.com/Ticaal90 - 353 Followers
+https://twitter.com/AliAdenalSomali - 14 Followers
+https://twitter.com/ns45678 - 89 Followers
+https://twitter.com/AbouShahadeh - 31 Followers
+https://twitter.com/jihadi10744139 - 173 Followers
+https://twitter.com/abohamzaalturki - 38 Followers
+https://twitter.com/JoniManm - 211 Followers
+https://twitter.com/almuhajerBackup - 235 Followers
+https://twitter.com/dhxhsvd2 - 92 Followers
+https://twitter.com/77nb_ - 145 Followers
+https://twitter.com/dawlajokers - 453 Followers
+https://twitter.com/dawlawialg671 - 44 Followers
+https://twitter.com/fahadeyad62 - 60 Followers
+https://twitter.com/btr333btr4 - 348 Followers
+https://twitter.com/dola24687 - 3 435 Followers
+https://twitter.com/Talal_Q3O - 1 913 Followers
+https://twitter.com/muslimmouwahed8 - 839 Followers
+https://twitter.com/8itismesalman - 413 Followers
+https://twitter.com/jihadiuser58 - 1 960 Followers
+https://twitter.com/meek_don - 488 Followers
+https://twitter.com/yotorg - 187 Followers
+https://twitter.com/facebookaccoun2 - 27 Followers
+https://twitter.com/nseem066 - 1 412 Followers
+https://twitter.com/ieshabaqea - 298 Followers
+https://twitter.com/aassddffa833 - 1 340 Followers
+https://twitter.com/nor92331 - 113 Followers
+https://twitter.com/1ElNusra1 - 572 Followers
+https://twitter.com/j_jj_jjj_5577 - 347 Followers
+https://twitter.com/_________N___34 - 1 993 Followers
+https://twitter.com/Uddjdn1 - 313 Followers
+https://twitter.com/bbgg75157900 - 558 Followers
+https://twitter.com/Rama15202 - 197 Followers
+https://twitter.com/_J_I_T_E_M_ - 35,6 k Followers
+https://twitter.com/mohamed_zainab4 - 165 Followers
+https://twitter.com/Tr8_K0 - 118 Followers
+https://twitter.com/eng__sr - 170 Followers
+https://twitter.com/Om_khatabb - 140 Followers
+https://twitter.com/ubj_k - 126 Followers
+https://twitter.com/KhilafahDawah5 - 199 Followers
+https://twitter.com/AbuDharIslandi7 - 207 Followers
+https://twitter.com/ixcncn1 - 49 Followers
+https://twitter.com/anaeldora30 - 678 Followers
+https://twitter.com/mazenhapne - 42 Followers
+https://twitter.com/Dabiiq7 - 30 Followers
+https://twitter.com/A05462492 - 1 371 Followers
+https://twitter.com/Hmode5556Www - 7 Followers
+https://twitter.com/ukhtiaisha1 - 123 Followers
+https://twitter.com/abcd123456789a7 - 163 Followers
+https://twitter.com/AmonMame - 480 Followers
+https://twitter.com/Abu_Bin_Fartin - 1 067 Followers
+https://twitter.com/_ihsen_086_ - 223 Followers
+https://twitter.com/gajhfjfd - 164 Followers
+https://twitter.com/Obayd6Wevrw - 205 Followers
+https://twitter.com/e30isisa - 110 Followers
+https://twitter.com/K_H_O34 - 187 Followers
+https://twitter.com/know_paris - 27 Followers
+https://twitter.com/saeu17 - 10 Followers
+https://twitter.com/anjemchoudary - 32,1 k Followers
+https://twitter.com/gmailco69426226 - 32 Followers
+https://twitter.com/muslim_libi - 11 Followers
+https://twitter.com/aabuyosif - 57 Followers
+https://twitter.com/saeu17 - 10 Followers
+https://twitter.com/kabugezo - 552 Followers
+https://twitter.com/AbuIslamIS1990 - 998 Followers
+https://twitter.com/mafel_65 - 165 Followers
+https://twitter.com/AbuHafsaBritani - 833 Followers
+https://twitter.com/Ahmadkhalf2012 - 331 Followers
+https://twitter.com/YourOwnBro116 - 184 Followers
+https://twitter.com/Reporters000 - 648 Followers
+https://twitter.com/WakeUp_MV - 865 Followers
+https://twitter.com/saeu17 - 10 Followers
+https://twitter.com/jabalybaraa - 2 961 Followers
+https://twitter.com/s_2O17_ - 109 k Followers
+https://twitter.com/frm450 - 88 Followers
+https://twitter.com/gogoaag82 - 79 Followers
+https://twitter.com/xxx__800 - 149 Followers
+https://twitter.com/IslamArmy01 - 124 k Followers
+https://twitter.com/g8670062_8 - 212 Followers
+https://twitter.com/del_elremah1 - 566 Followers
+https://twitter.com/Idififkk1 - 115 Followers
+https://twitter.com/makdici1970 - 269 Followers
+https://twitter.com/mahsud117 - 2 853 Followers
+https://twitter.com/K_A_S_E_R_5 - 88 Followers
+https://twitter.com/lmaqdese - 35,3 k Followers
+https://twitter.com/nour_umm - 1 Followers
+https://twitter.com/5aq5qDGpNsr4IDU - 88 Followers
+https://twitter.com/gaza9310 - 274 Followers
+https://twitter.com/Jfdlbk - 224 Followers
+https://twitter.com/Elkhelafa_Now - 229 Followers
+https://twitter.com/IssamSayari - 116 Followers
+https://twitter.com/Abo_mhdi29 - 184 Followers
+https://twitter.com/moedker01 - 241 Followers
+https://twitter.com/hafeed1001 - 391 Followers
+https://twitter.com/Yamani_5 - 117 Followers
+https://twitter.com/teagouch1 - 212 Followers
+https://twitter.com/aawwss_22 - 1 280 Followers
+https://twitter.com/Dolawiyah_Jo6 - 76 Followers
+https://twitter.com/gfd6064 - 69 Followers
+https://twitter.com/asaudicowdonkey - 271 Followers
+https://twitter.com/UmmAbdallah89 - 22 Followers
+https://twitter.com/EhliSunneti3 - 129 Followers
+https://twitter.com/salilbnim - 729 Followers
+https://twitter.com/ab1o3zam12 - 311 Followers
+https://twitter.com/frost0023 - 452 Followers
+https://twitter.com/drherhdfbdrhdhs - 111 Followers
+https://twitter.com/kinght78ag - 96 Followers
+https://twitter.com/Ffhfbfb1 - 1 360 Followers
+https://twitter.com/Almohajer_103 - 1 776 Followers
+https://twitter.com/ahmadsaid91 - 1 428 Followers
+https://twitter.com/dograqqa - 734 Followers
+https://twitter.com/OMoudjahid - 306 Followers
+https://twitter.com/Yamani_5 - 117 Followers
+https://twitter.com/ghanimaetfa - 117 Followers
+https://twitter.com/kilafa1235 - 830 Followers
+https://twitter.com/gh4704721 - 23 Followers
+https://twitter.com/Ahmadccx - 323 Followers
+https://twitter.com/alibosatl77 - 202 Followers
+https://twitter.com/John23130788 - 145 Followers
+https://twitter.com/Hilafet_Haber - 872 Followers
+https://twitter.com/yahyakurdi00 - 169 Followers
+https://twitter.com/Ablul_Vahhab - 50 Followers
+https://twitter.com/dareyya32 - 319 Followers
+https://twitter.com/tamer1437 - 16 Followers
+https://twitter.com/AbdullahSadun - 547 Followers
+https://twitter.com/MastafaMrafa - 255 Followers
+https://twitter.com/LeysEbu - 457 Followers
+https://twitter.com/taqaddem - 218 Followers
+https://twitter.com/ok____11 - 324 Followers
+https://twitter.com/abd_zyaad - 244 Followers
+https://twitter.com/B_1437K12 - 127 Followers
+https://twitter.com/devletul_islam - 59 Followers
+https://twitter.com/rakka44 - 388 Followers
+https://twitter.com/h_k_A010 - 7 Followers
+https://twitter.com/for123123123 - 1 111 Followers
+https://twitter.com/is_power33 - 62 Followers
+https://twitter.com/LA_HWADEH_61 - 1 228 Followers
+https://twitter.com/whbbzva - 934 Followers
+https://twitter.com/ihlas95 - 260 Followers
+https://twitter.com/qwerwoow - 239 Followers
+https://twitter.com/tamtot2510 - 772 Followers
+https://twitter.com/iad1306 - 129 Followers
+https://twitter.com/aloqabflag13 - 77 Followers
+https://twitter.com/2bamino - 177 Followers
+https://twitter.com/assiawaisha - 56 Followers
+https://twitter.com/e7isisa - 812 Followers
+https://twitter.com/NasruQarib3 - 77 Followers
+https://twitter.com/fffggghhgf - 431 Followers
+https://twitter.com/AbuQaeqae1924 - 934 Followers
+https://twitter.com/abu_khalid118 - 82 Followers
+https://twitter.com/Jbilou__ - 1 337 Followers
+https://twitter.com/Newsazerty - 6 Followers
+https://twitter.com/truckii - 94 Followers
+https://twitter.com/DiscoSysteme - 168 Followers
+https://twitter.com/hkwaky1 - 93 Followers
+https://twitter.com/abuRawaha008 - 67 Followers
+https://twitter.com/muaz19966 - 241 Followers
+https://twitter.com/da_fa_ma - 388 Followers
+https://twitter.com/basira67 - 335 Followers
+https://twitter.com/Xay_015 - 271 Followers
+https://twitter.com/Islamhalal15 - 86 Followers
+https://twitter.com/BABER_6666 - 246 Followers
+https://twitter.com/aliali29619801 - 481 Followers
+https://twitter.com/Dhhd4874 - 1 247 Followers
+https://twitter.com/shaefk112 - 518 Followers
+https://twitter.com/Khaledakis_ - 50 Followers
+https://twitter.com/abo_askndr120 - 687 Followers
+https://twitter.com/KNTLExfn1vO1Nzh - 30 Followers
+https://twitter.com/darimi22 - 463 Followers
+https://twitter.com/baqqiiya - 556 Followers
+https://twitter.com/HAYAH_MAN - 13,2 k Followers
+https://twitter.com/qtada212 - 243 Followers
+https://twitter.com/gra7_q - 9 104 Followers
+https://twitter.com/ibn_adam75 - 516 Followers
+https://twitter.com/soul___011 - 99 Followers
+https://twitter.com/x35xisis - 433 Followers
+https://twitter.com/runaway003 - 2 448 Followers
+https://twitter.com/sami_almani - 16 Followers
+https://twitter.com/tarkuliev - 24 Followers
+https://twitter.com/Sdy23326287 - 555 Followers
+https://twitter.com/TrdfhYtggg - 2 036 Followers
+https://twitter.com/aawwss_22 - 1 281 Followers
+https://twitter.com/88ibramz - 787 Followers
+https://twitter.com/auwtwg - 363 Followers
+https://twitter.com/Dawla_Baqyia - 107 Followers
+https://twitter.com/erher11 - 859 Followers
+https://twitter.com/Bdjdjd16 - 522 Followers
+https://twitter.com/alaminhajinubua - 90 Followers
+https://twitter.com/dtdet2 - 213 Followers
+https://twitter.com/abu_albelgiki - 304 Followers
+https://twitter.com/akhi_j2 - 139 Followers
+https://twitter.com/jjbgcff - 143 Followers
+https://twitter.com/hgf8273 - 265 Followers
+https://twitter.com/mhteeg137 - 700 Followers
+https://twitter.com/SawfaNamdzi - 520 Followers
+https://twitter.com/khilafa01 - 521 Followers
+https://twitter.com/Karib_Alsham - 2 951 Followers
+https://twitter.com/nnlllgfd - 699 Followers
+https://twitter.com/alshamiabdalla1 - 87 Followers
+https://twitter.com/ghareeb_001 - 460 Followers
+https://twitter.com/samaka_26 - 905 Followers
+https://twitter.com/AgeOfKhilafah - 536 Followers
+https://twitter.com/Rehamis58 - 216 Followers
+https://twitter.com/sarah19anbar - 691 Followers
+https://twitter.com/OussamaBagdadi - 31 Followers
+https://twitter.com/AnsarAlSharia13 - 133 Followers
+https://twitter.com/0____8 - 350 Followers
+https://twitter.com/SaefAzd14 - 284 Followers
+https://twitter.com/IbnElwalid4 - 77 Followers
+https://twitter.com/SeifMark16 - 635 Followers
+https://twitter.com/Ahlu__Sunnah - 444 Followers
+https://twitter.com/ridaibnwalid - 101 Followers
+https://twitter.com/nabilbgari - 558 Followers
+https://twitter.com/_abdulmatin_ - 207 Followers
+https://twitter.com/rabe13anbar - 1 109 Followers
+https://twitter.com/arab_ellsajinne - 148 Followers
+https://twitter.com/abo_A_M_E_R - 3 594 Followers
+https://twitter.com/Leathiraq88 - 215 Followers
+https://twitter.com/abomoath1437 - 847 Followers
+https://twitter.com/Ade_superriadi - 633 Followers
+https://twitter.com/samirahijazi1 - 1 344 Followers
+https://twitter.com/a0903222280 - 31 Followers
+https://twitter.com/afad111 - 525 Followers
+https://twitter.com/cmmff1 - 358 Followers
+https://twitter.com/BahrainiAgam1 - 238 Followers
+https://twitter.com/vip_salami - 619 Followers
+https://twitter.com/deppalotaipi04 - 328 Followers
+https://twitter.com/Aomar771 - 717 Followers
+https://twitter.com/CitizenArkhab - 244 Followers
+https://twitter.com/Q8__tk - 107 Followers
+https://twitter.com/par1284 - 695 Followers
+https://twitter.com/pc13simpanan - 103 Followers
+https://twitter.com/5antithogut - 117 Followers
+https://twitter.com/Y_XXXIV - 212 Followers
+https://twitter.com/Ara3i_Ebl98 - 127 Followers
+https://twitter.com/Q0220Q - 44 Followers
+https://twitter.com/Harth615 - 220 Followers
+https://twitter.com/Buibrahim12__04 - 301 Followers
+https://twitter.com/im_here__ - 159 Followers
+https://twitter.com/Ultrasmuslim1 - 2 827 Followers
+https://twitter.com/7eccba5cf36840e - 349 Followers
+https://twitter.com/twin1943 - 2 901 Followers
+https://twitter.com/V0CON9S12321232 - 72 Followers
+https://twitter.com/asyiya_04 - 269 Followers
+https://twitter.com/AbangFal - 134 Followers
+https://twitter.com/SadekPasent - 240 Followers
+https://twitter.com/solyia_S - 792 Followers
+https://twitter.com/ghzhj11 - 186 Followers
+https://twitter.com/HuChuin_63 - 1 257 Followers
+https://twitter.com/NeightMid - 399 Followers
+https://twitter.com/alhareth0770 - 47 Followers
+https://twitter.com/CqlXfdwac - 428 Followers
+https://twitter.com/Daesh_NewsS - 2 149 Followers
+https://twitter.com/hg5599 - 2 830 Followers
+https://twitter.com/xbee12 - 231 Followers
+https://twitter.com/well155951 - 858 Followers
+https://twitter.com/T7__n3w - 2 391 Followers
+https://twitter.com/year2022end - 2 480 Followers
+https://twitter.com/th_akrh - 1 555 Followers
+https://twitter.com/bladi_00alaslam - 2 070 Followers
+https://twitter.com/ettaboy3 - 199 Followers
+https://twitter.com/wefet_37 - 381 Followers
+https://twitter.com/NeightMid - 399 Followers
+https://twitter.com/anasjpumk1 - 147 Followers
+https://twitter.com/AheheHaw - 220 Followers
+https://twitter.com/mo895_mo - 1 900 Followers
+https://twitter.com/baqiya80 - 434 Followers
+https://twitter.com/isis_3366 - 1 256 Followers
+https://twitter.com/al_wafaa1083 - 1 037 Followers
+https://twitter.com/e55isisa - 130 Followers
+https://twitter.com/Sahkr_k - 170 Followers
+https://twitter.com/i_iii11 - 488 Followers
+https://twitter.com/Dhhd4874 - 1 267 Followers
+https://twitter.com/ibn_al_khattb - 149 Followers
+https://twitter.com/Hmdani__t - 273 Followers
+https://twitter.com/ao55206 - 431 Followers
+https://twitter.com/Cxch2 - 46 Followers
+https://twitter.com/jhjhjee_lk - 144 Followers
+https://twitter.com/ShamCenterINFO - 771 Followers
+https://twitter.com/islam_net2 - 172 Followers
+https://twitter.com/dawla_tnt - 186 Followers
+https://twitter.com/moshawkani - 380 Followers
+https://twitter.com/cc_erreer - 384 Followers
+https://twitter.com/combattantdivin - 62 Followers
+https://twitter.com/Amirbakistani3 - 191 Followers
+https://twitter.com/ebu_nusra - 393 Followers
+https://twitter.com/mabed_5 - 797 Followers
+https://twitter.com/Ablul_Vahhab - 50 Followers
+https://twitter.com/dareyya32 - 319 Followers
+https://twitter.com/Hilafet_Haber - 873 Followers
+https://twitter.com/yahyakurdi00 - 169 Followers
+https://twitter.com/Ablul_Vahhab - 50 Followers
+https://twitter.com/dareyya32 - 319 Followers
+https://twitter.com/kudusungelini - 132 Followers
+https://twitter.com/hpLmnX6tvw2F2mN - 216 Followers
+https://twitter.com/hpLmnX6tvw2F2mN - 216 Followers
+https://twitter.com/turmeda000313 - 62 Followers
+https://twitter.com/AbuDharIslandi7 - 208 Followers
+https://twitter.com/K_H_O34 - 187 Followers
+https://twitter.com/56a37f7197ba41c - 80 Followers
+https://twitter.com/anjemchoudary - 32,1 k Followers
+https://twitter.com/ben7491 - 55 Followers
+https://twitter.com/Raqqa_SL - 39,7 k Followers
+https://twitter.com/qwerwoow - 240 Followers
+https://twitter.com/1ElNusra1 - 572 Followers
+https://twitter.com/SomQaeda - 958 Followers
+https://twitter.com/SomQaeda - 958 Followers
+https://twitter.com/is5_is5 - 1 911 Followers
+https://twitter.com/sarokhsam25 - 16 Followers
+https://twitter.com/taher3832 - 7 816 Followers
+https://twitter.com/beeshbeeshbees3 - 87 Followers
+https://twitter.com/aljanady75 - 85 Followers
+https://twitter.com/_Mi_Sk_ -  Followers
+https://twitter.com/AbuDharIslandi7 - 208 Followers
+https://twitter.com/iislamic12 - 518 Followers
+https://twitter.com/soman611 - 541 Followers
+https://twitter.com/zFrBNMg0hJGCOcz - 166 Followers
+https://twitter.com/zxyor09 - 589 Followers
+https://twitter.com/iuIwiz9Scbm90 - 901 Followers
+https://twitter.com/y8_i8_ - 6 586 Followers
+https://twitter.com/abo_hagar44 - 161 Followers
+https://twitter.com/gharebb00 - 380 Followers
+https://twitter.com/ab0khalid13 - 44 Followers
+https://twitter.com/Aomar771 - 718 Followers
+https://twitter.com/ississ_is - 1 202 Followers
+https://twitter.com/mo895_mo - 1 908 Followers
+https://twitter.com/solyia_S - 807 Followers
+https://twitter.com/isis_3366 - 1 264 Followers
+https://twitter.com/Migrant2Allah - 1 864 Followers
+https://twitter.com/G6A77 - 1 298 Followers
+https://twitter.com/achbahlaill0075 - 111 Followers
+https://twitter.com/reem_153_ - 908 Followers
+https://twitter.com/zFrBNMg0hJGCOcz - 166 Followers
+https://twitter.com/sh33445555 - 522 Followers
+https://twitter.com/Alethawiya44 - 347 Followers
+https://twitter.com/As_soumaly - 809 Followers
+https://twitter.com/nor92331 - 114 Followers
+https://twitter.com/islamdamas1980 - 39,9 k Followers
+https://twitter.com/HA_alshami03 - 2 532 Followers
+https://twitter.com/jundi71033868 - 326 Followers
+https://twitter.com/zzzzzx175 - 182 Followers
+https://twitter.com/azdisis58 -  187 followers
+https://twitter.com/tckfnfm1 - 1346 fo
+https://twitter.com/AstCiIs71 -  87 followers 
+https://twitter.com/Muwaxxid/following - 160 followers
+https://twitter.com/champ1007469284 - 788 followers
+https://twitter.com/abo___111ali 904 followers
+https://twitter.com/CbbjVnnj - 24 Followers
+https://twitter.com/yw217 - 117 followers
+https://twitter.com/umm_yasmine
+https://twitter.com/cz1bCfZ0MnyubOd
+https://twitter.com/muahied_8
+https://twitter.com/AlnjlatMohamad
+https://twitter.com/iplee4
+https://twitter.com/isis_3344
+https://twitter.com/nor964432
+https://twitter.com/Turbo_113
+https://twitter.com/ivfkfj2
+https://twitter.com/CIh9ML
+https://twitter.com/157aboismail
+https://twitter.com/cmdmmx1
+https://twitter.com/RxdctfvDtfhj
+https://twitter.com/zhrany100
+https://twitter.com/kalldd345
+https://twitter.com/invasion44
+https://twitter.com/26anneza3
+https://twitter.com/Gareeeb45
+https://twitter.com/baqya520
+https://twitter.com/fbdfberberber
+https://twitter.com/treraqqa
+https://twitter.com/talwtalbghdady1
+https://twitter.com/M_m_m_m_2000
+https://twitter.com/alsloulistupid
+https://twitter.com/Aleeeiiii4444
+https://twitter.com/MatarMurad
+https://twitter.com/GMC_IS
+https://twitter.com/Diteslavrit4
+https://twitter.com/abou_walaa12
+https://twitter.com/LLAA554
+https://twitter.com/safeallah425
+https://twitter.com/kinght78ag
+https://twitter.com/Bdjdjd16
+https://twitter.com/Ik_32_state
+https://twitter.com/hjfkdsl1
+https://twitter.com/Om_Osaid_63
+https://twitter.com/kurdish22_22
+https://twitter.com/AzdiSayil
+https://twitter.com/ahmedx360x18
+https://twitter.com/HuChuin_63
+https://twitter.com/parisonourfire
+https://twitter.com/20Trewq
+https://twitter.com/gkgjfufjc
+https://twitter.com/humaninnocence
+https://twitter.com/monaser156
+https://twitter.com/muriidi12
+https://twitter.com/poompaiii
+https://www.facebook.com/ta.awwad
+https://www.facebook.com/profile.php?id=100009524420625
+https://twitter.com/muslim_13_
+https://twitter.com/ahmadkhloof115
+https://twitter.com/Mas124an
+https://twitter.com/ahmedmahmoudi12
+https://twitter.com/dfghujuiytrr
+https://twitter.com/mejedklm
+https://twitter.com/f73071755
+https://twitter.com/rkrk4m26
+https://twitter.com/dyalla72
+https://twitter.com/sa7awetbuslim04
+https://twitter.com/TP57iQ3lCAGgKzV
+https://twitter.com/mohammedsz6
+https://twitter.com/1993Agmad1993
+https://twitter.com/Bbsswwnn
+https://twitter.com/almnasron4
+https://twitter.com/bar_bel1
+https://twitter.com/ManguAilon55
+https://twitter.com/modie_50
+https://twitter.com/Njd___qt78is
+https://twitter.com/Gehaaad1122
+https://twitter.com/bladi_00alaslam
+https://twitter.com/fallujha1
+https://twitter.com/AboFareed10
+https://twitter.com/manerland
+https://twitter.com/abo_a_94
+https://twitter.com/3Abouwalid
+https://twitter.com/bakreebeeko_5
+https://twitter.com/3li1187
+https://twitter.com/Alnablsy97
+https://twitter.com/G6A77
+https://twitter.com/TheObserver91
+https://twitter.com/6cccg2
+https://twitter.com/ISIS_HERO1
+https://twitter.com/ZZzBXqHOymuBANK
+https://twitter.com/teamsystemdz
+https://twitter.com/vbhgxdfc
+https://twitter.com/bhCotn
+https://twitter.com/maktaba_1
+https://twitter.com/osama_dam1
+https://twitter.com/fata_almosel
+https://twitter.com/xxmm4455777
+https://twitter.com/SUPPORT_JOHER
+
+
+
+--------------------
+
+We Are Anonymous
+We are legion
+We do not forgive
+We do not forget
+Expect Us
+
+ 
+ 
+========================================================
+Facebook account Supporting ISIS
+========================================================
+ 
+ 
+1) https://www.facebook.com/groups/FACEMOUUUK/ (not verified) 
+2) https://www.facebook.com/profile.php?id=100010517327387 
+3) https://www.facebook.com/profile.php?id=100010546992971&fref=pymk
+4) https://www.facebook.com/profile.php?id=100010628735374&hc_location=friend_browser&fref=pymk
+5) https://www.facebook.com/ham.interprint.3
+6) https://www.facebook.com/profile.php?id=100009245070969
+7) https://www.facebook.com/luke.seffari (suspended)
+8) https://www.facebook.com/alatousmyl54 (suspended)
+9) https://www.facebook.com/pages/Islamic-State-of-Iraq-and-Syria-School/1083874904972898?pnref=lhc (school)
+10) https://www.facebook.com/mohamad.gefor?fref=pymk 
+11) https://www.facebook.com/groups/297899730397934/
+12) https://www.facebook.com/profile.php?id=100009317597240
+13)https://www.facebook.com/giovanna.randazzo.100 she have changed the fb name -> she is no supporter?? no it's not a supporter
+14)https://www.facebook.com/profile.php?id=100010679703200
+15)https://www.facebook.com/syarif.alarief
+16)https://www.facebook.com/raoul.beka?fref=nf
+17)https://www.facebook.com/mujard.ansan?fref=st
+18)https://www.facebook.com/profile.php?id=100010665188607
+19)https://www.facebook.com/profile.php?id=100010617403779 
+20)https://www.facebook.com/profile.php?id=100010699444589
+21)https://www.facebook.com/profile.php?id=100008809270908
+22)https://www.facebook.com/profile.php?id=100010596495453
+23)https://www.facebook.com/a.karem26
+24)https://www.facebook.com/profile.php?id=100010652408254
+25)https://www.facebook.com/963255477065597  (German fb-site defenitly sympathizing with the caliphate, translated and verified)
+26)https://www.facebook.com/profile.php?id=100010574597883&fref=pb&hc_location=friends_tab
+27)https://www.facebook.com/profile.php?id=100009652064088&fref=pb&hc_location=friends_tab
+28)https://www.facebook.com/profile.php?id=100010570338239&fref=pb&hc_location=friends_tab
+29)https://www.facebook.com/profile.php?id=100010044249213&fref=pb&hc_location=friends_tab
+30)https://www.facebook.com/syarif.alarief
+31)https://www.facebook.com/alesandro  "Neka mu dragi Allah podari lijepi dzenet a porodici sabur" > Leave him/it dear, Allah it will grant him the heaven.Support to your family.
+32)https://www.facebook.com/photo.php?fbid=1653266704931844&set=pcb.1653266774931837&type=3&theate
+33)https://www.facebook.com/yousef.craizy.1?fref=ufi
+34)https://www.facebook.com/profile.php?id=100009666676823&fref=nf
+35)https://www.facebook.com/batn.elzeer.7?_rdr=p
+36)https://www.facebook.com/shanna.minelli
+37)https://www.facebook.com/raven.fisher.33?ref=br_rs
+38)https://www.facebook.com/profile.php?id=100008859960361&fref=ufi
+39)https://www.facebook.com/profile.php?id=100010568102372&pnref=story
+40)https://www.facebook.com/profile.php?id=100010140181338&pnref=story
+41)https://www.facebook.com/profile.php?id=100010495992968&fref=nf&pnref=story
+42)https://www.facebook.com/profile.php?id=100010072533152&fref=nf&pnref=story
+ 
+ 
+========================================================
+Tumblr account Supporting ISIS
+======================================================== 
+ 
+http://al-qhtani.tumblr.com/ isis supporter
+http://abuqital.tumblr.com/ propaganda stuff
+http://abu-nour-al-filipini.tumblr.com/ propaganda stuff
+http://love-allah.tumblr.com/post/132903466987 propaganda and isis supporter
+http://jehad19.tumblr.com/ propaganda
+http://beto-2.tumblr.com/ propaganda and support
+http://rasaaa11.tumblr.com/ propaganda and isis supporter
+http://abumosaab.tumblr.com/ propaganda
+http://kalifamamoon.tumblr.com/
+http://umjalal.tumblr.com/
+http://wa-islamah.tumblr.com/ german account, propaganda and isis supporter
+ https://www.tumblr.com/tagged/mujahideen (liens multiples !!)
+ 
+==========================================
+===========TELEGRAM CHANNELS==============
+==========================================
+ 
+Email to REPORT!!! abuse@telegram.org
+ 
+1.) https://telegram.me/nasherislamicstate
+2.) https://telegram.me/isdarat_islamicstate
+3.) https://telegram.me/LebenEinerMuhajira (German Caliphate member or supporter)
+ 
+ 
+=========================================================
+==================ISIS supporting website========================
+=========================================================
+jaishalislam.com  (Not ISIS but terrorists) 
+http://alfath.org/    (ISIS supporter)
+https://millahibrahim.wordpress.com/ (ISIS) Report for abuse --> https://wordpress.com/abuse/       http://pastebin.com/mH2x2mnG
+http://shoutussalam.co/   (ISIS) 
+http://zad-muslim.com/index.php
+https://www.mnbr.info/vb/index.php   ( Jihadi forum (ISIS + AlQaeda))
+https://ismailabduljabbaralbrazili.wordpress.com  (ISIS) Report for abuse --> https://wordpress.com/abuse/  http://pastebin.com/FbqTpBuq
+http://isdratetp4donyfy.onion (ISIS)
+http://ismailabduljabbar.tumblr.com   (ISIS)
+http://brazili-witness.blogspot.com       (ISIS)  Re
+http://tangentcode.org/
+https://khilafah-archives.com/ (104.28.22.22, wordpress 4.3.1) (french website PRIORITY MAXIMAL) (already reported to CloudFare (server owned by cloudfare)) (please report more) https://www.cloudflare.com/abuse/form  http://pastebin.com/hzEqFttL
+http://abu0baker.blogspot.fr (216.58.208.33)
+http://isdratetp4donyfy.onion/29513 
+http://jihadology.net/ ( 66.155.38.250 hosted wildwestdomain.com) 
+http://siddiqlarbiz.blogspot.fr (unconfirmed)
+http://mixlr.com/alwa3ialislami/ (found on a opiceisis website on the site was a link to this radio(http://wa3iarabi.com/))
+www.islamic-dw.com [104.18.52.21] (cloudflare.com) - A direct-connect IP address was found: islamic-dw.com 192.99.212.229 CANADA
+https://justpaste.it/ozwx
+https://justpaste.it/Ekwah
+https://dump.to/ePV
+https://justpaste.it/Kesat
+https://justpaste.it/oz3u
+http://gareeb-alikhwan.blogspot.fr -terrorist 
+https://www.jaishalislam.com/ -terrorist (islam-army.com@gmail.com , telegram.me/jaishalislam01 ,Skype:HA_alshami )104.18.58.100 hosted by cloudfare
+ 
+ 
+ 
+ 
+========================================================
+=======================Diverse ISIS related Medias===========
+========================================================
+ 
+https://drive.google.com/file/d/0B08Fu5SYwrk0U25JdzJDWEtHODQ/view  (document à eliminer absolument, video de propagande)
+https://archive.org/details/sadhjomkt
+https://archive.org/details/AboZeadAlzaedy
+https://archive.org/details/sadhjomkt
+https://justpaste.it/ganb_marek
+https://archive.org/details/AboZeadAlzaedy
+https://archive.org/details/sadhjomkt
+http://archive.org/details/JMuharram (statistical military operations)
+https://justpaste.it/ganb_marek
+https://my.mail.ru/mail/abu.asaad/video/_myvideo/14.html
+https://archive.org/details/sadhjomkt
+http://isdratetp4donyfy.onion.link/e?id=29657 (video propagande)
+https://my.mail.ru/mail/abu.asaad/video/_myvideo/14.html
+https://archive.org/details/resala_201511
+http://justpaste.it/ouaz 
+https://www.youtube.com/channel/UCLCp4N0I03u4ZBU0tqmie1A
+https://archive.org/details/khyana-3losh (to be verified, translated)
+https://www.mediafire.com/folder/5hhdm48obmvjs/Videos 
+https://www.youtube.com/watch?v=RYikQEzSIcA&feature=youtu.be <-- video mao mao / deleted.
+https://twitter.com/myteks/status/665300953612943360?ref_src=twsrc
+https://ia601505.us.archive.org/32/items/CommuniqueAudio/communique%20audio.mp3<- Shariah song at the end
+https://www.youtube.com/watch?v=RV81wh6GjI4
+https://www.youtube.com/watch?v=2NtqDnnYkhQ
+https://www.youtube.com/watch?v=e7X48Sic8GQ&feature=youtu.be
+http://shortwiki.org/28348 (on the occasion of the blessed invasion of France Crusade)
+http://justpaste.it/attaqueParis 
+https://www.youtube.com/user/sayfullah38 
+https://www.youtube.com/channel/UC8qINDhXKjdsiGklpXVrR0Q/videos (need to be verified,very probable)
+https://www.youtube.com/channel/UCF76sdRtRaVjhq1ZCFtu01A (need to be verified)
+https://www.youtube.com/watch?v=Rau1JjyM480  (need verification on all people tagged on the video)
+https://www.youtube.com/channel/UCGZsLp6z2RPAH4Ac8ZksmVQ
+http://sendvid.com/zjy7d693
+http://www.mediafire.com/download/kdpm31q3h22ij26/ebookisisapk.apk (ebook)
+http://halummu.wordpress.com
+http://tweetforisis.my3gb.com (used to quickly create new twitter accounts)
+ 
+=========================================
+===========SYRIAN ISP's==================
+=========================================
+ISP's Syria 
+I think is the full list of isps https://ghostbin.com/paste/skdug
+SCS-Net, 
+View ISP, 
+Aalami, 
+AYA, http://aya.net/Services/adsl/
+E-LCOM, 
+INET, 
+Nas, 
+Omniya, 
+Runnet, 
+SAWA Internet Provider, 
+Syrian Telecommunications Establishment (STE), 
+14. ZAD
+ 
+=======================================
+============CLUES:=====================
+=======================================
+ 
+isis_9966 posts: Today and tomorrow, Paris, London and Rome this very little,which will see the Crusaders and the next Edhi ordered
+ 
+http://prntscr.com/92jwm3 is picture forpost proof
+http://i.imgur.com/U7JLFHd.png
+https://twitter.com/isis_9966/status/665281654328598528( Account Suspended) post time: 10:34 pm nov 13, attack date 12:48 am nov 1408:20 pm nov 13 (timeline:
+    http://www.bbc.com/news/world-europe-34818994)
+ 
+http://www.tevhididavet.com/
+https://ansaaar1.wordpress.com/
+http://aboukhattab-alyemeni.blogspot.com/
+ 
+https://justpaste.it/oz2j
+https://justpaste.it/r28
+http://justpaste.it/ozq9
+ 
+ 
+Video by ISIS:
+http://shortwiki.org/27310
+https://www.youtube.com/watch?v=CfiVwqRbstQ&feature=youtu.be
+http://kaleme3kxnp2ifqa.onion
+ 
+ 
+====================================================================================================
+========================================= E MAIL LIST ========================================
+=====================================================================================================
+ 
+ m@tidakada.com
+ user@hotmail.com
+ Emails adress (members of Daesh)
+---------------------------------
+By LightsSquad
+---------------------------------
+***@aol.com
+***@centcom.mil
+boehmjr@taoc.3mawdm.usmc.mil
+nypd24423@aol.com
+pao@centcom.mil
+proudpd@aol.com
+albasrah2003@yahoo.com
+thomasfbarton@earthlink.net
+salah_almukhtar@gawab.com
+ali_alfatlawi2002@yahoo.co
+dr_fraijat@yahoo.com
+hamadalrawi@maktoob.com
+alaaaladamy@gmail.com
+mohamed@sabra-lt.com
+wael@sabra-lt.com
+info@tiptopcenterdubai.com
+menna.tiptop@gmail.com
+mk@tiptopcenterdubai.com
+fatih101988@gmail.com
+mzoonelmgrbi390@gmail.com
+mohammed18833838@gmail.com
+noha.kaml555@hotmail.com
+cso.ngo2000@gmail.com
+danagla@yahoo.com
+aminx67@rocketmail.com
+abinalgrah@hotmail.com
+khoaga99@gmail.com
+feetahi@hotmail.com
+emamhakim@gmail.com
+nasrdin@hotmail.com
+wifag19@yahoo.com
+ 
+ 
+====================================================================================================
+========================================= web Server  ========================================
+=====================================================================================================
+ 
+===NOTE===
+ 
+Please inform #opddosisis operators when you want to contribute to the target list by adding more targets,
+working on them, or do something about it. mmmk?
+Initiating target list...3...2...1...
+ 
+        <Main Targets:>
+ 
+:: www.furat.info [IP = 185.4.227.66]
+:: www.albuxoriy.com [IP = 50.7.207.4] actually down ;-)
+ 
+        <Detailed Target List contributed by people>
+ 
+https://ghostbin.com/paste/2fqcg - ToTo
+ 
+        <Confirmed Targets:>
+        
+>>>http://pastebin.com/q9pfHbki -Scan Results: Targets Below
+ 
+www.islam-iea.com -terrorist -CF
+shoutussalam.org -ISIS  DOWN
+hizb-pakistan.com -CF -terrorist JOOMLA
+jannatoshiqlari.net -terrorist DOWN
+khilafah.com -terrorist
+khilafah.net -terrorist
+www.hizbuttahrir.org -terrorist
+khilafa.org -terrorist
+ht-bangladesh.info -terrorist
+www.vd.ag -terrorist
+shahamat-english.com -terrorist
+alemara1.org -terrorist
+hizb-ut-tahrir.dk -terrorist
+hizb-australia.org -terrorist
+www.hizb.org.uk -terrorist
+hizb-ut-tahrir.info -terrorist
+isdarat.tv -CF -ISIS 
+isdarat.in -ISIS
+jehadway.7olm.org -ISIS
+mnbr.info -ISIS 
+salafimediauk.com -ISIS 
+www.tevhidigundem.com -terrorist
+voa-islam.com -CF -terrorist  
+gurmad.info -ISIS
+www.islamic-dw.com -ISIS  
+isnews.net -ISIS
+azzammedia.net - CF -ISIS
+https://alfidaa.biz/vb/ -ISIS
+shahamat-movie.com -terrorist
+dawatehaq.net -ISIS
+www.daulahislamiyyah.com  -ISIS 
+shahamat-urdu.com -terrorist
+hizbut-tahrir.or.id
+somalimemo.net  
+radioandalus24.com
+isdarat.sd
+https://tajdeed.org.uk -Terrorist
+www.mykhilafah.com -terrorist
+www.hizb-turkiston.net -terrorist CF
+www.shamikh1.info/vb/ -ISIS
+www.alsomod.com -terrorist CF
+www.tarani.info -terrorist
+www.qassam.ps -terrorist CF
+www.alqassam.ps -terrorist CF
+www.shahamat-arabic.com -terrorist CF
+www.shahamat-english.com -terrorist CF
+ut-www.hizb-tahrir.fl -terrorist
+www.hizb-ut-tahrir.se -terrorist
+www.hizb-turkiye.org -terrorist
+http://hademaswar.blogspot.fr
+ 
+ISIS Websites
+-------------------
+By LightsSquad
+-------------------
+ 
+http://sadcom.montadamoslim.com/  -> SQL error
+http://is0lamanation.blogspot.fr/ -> Not available now
+http://jihadmin.com/ -> XSS and Shell
+http://alhayatmedia.wordpress.com/ -> SQL, Shell, XSS, XML
+http://kjgafd.blogspot.com/-> Not available
+http://www.albasrah.net/ -> SQL, Shell, XSS, XML
+http://almagribi.blogspot.com/ -> Not available now
+http://www.iaisite.info/ -> Not available now
+http://islamiciraq.modawanati.com/ -> Not Available now
+--------------------
+ 
+ 
+We Are Anonymous
+We are legion
+We do not forgive
+We do not forget
+Expect Us
+
